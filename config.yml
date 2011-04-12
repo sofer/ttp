@@ -1,0 +1,7 @@
+exclude: 
+- src
+- README
+- Rakefile
+- config.rb
+- .sass-cache
+- CNAME
