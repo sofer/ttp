@@ -1,0 +1,70 @@
+@charset "UTF-8";
+/* line 7, ../src/application.scss */
+body {
+  font-family: helvetica, arial, sans-serif;
+}
+
+/* line 8, ../src/application.scss */
+h1 {
+  font-size: x-large;
+  margin-top: 1em;
+}
+
+/* line 9, ../src/application.scss */
+h2 {
+  font-size: large;
+  margin-top: 1em;
+}
+
+/* line 10, ../src/application.scss */
+p {
+  line-height: 1.5em;
+  margin: 0.5em 0;
+}
+
+/* line 11, ../src/application.scss */
+blockquote {
+  font-style: italic;
+  padding: 0 1em;
+}
+
+/* line 13, ../src/application.scss */
+.container {
+  width: 950px;
+  margin: 0 auto;
+  overflow: hidden;
+  *zoom: 1;
+}
+/* line 15, ../src/application.scss */
+.container #header, .container #footer {
+  display: inline;
+  float: left;
+  margin-right: 10px;
+  width: 950px;
+}
+/* line 138, ../../../../../opt/local/lib/ruby/gems/1.8/gems/compass-0.10.6/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html .container #header, * html .container #footer {
+  overflow-x: hidden;
+}
+/* line 17, ../src/application.scss */
+.container #sidebar {
+  display: inline;
+  float: left;
+  margin-right: 10px;
+  width: 310px;
+}
+/* line 138, ../../../../../opt/local/lib/ruby/gems/1.8/gems/compass-0.10.6/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html .container #sidebar {
+  overflow-x: hidden;
+}
+/* line 19, ../src/application.scss */
+.container #content {
+  display: inline;
+  float: left;
+  margin-right: 0;
+  width: 630px;
+}
+/* line 138, ../../../../../opt/local/lib/ruby/gems/1.8/gems/compass-0.10.6/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html .container #content {
+  overflow-x: hidden;
+}
