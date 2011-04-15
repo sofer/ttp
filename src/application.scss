@@ -4,17 +4,34 @@
 //$blueprint-grid-columns: 16;
 //$blueprint_grid_width: 40px;
 
-body { font-family: helvetica, arial, sans-serif; }
+body { font-family: "Helvetica Neue", "Lucida Grande", Helvetica, Arial, Verdana, sans-serif; }
 h1 { font-size: x-large; margin-top: 1em; }
 h2 { font-size: large; margin-top: 1em; }
+h3 { font-weight: bold; margin-top: 1em; }
 p { line-height: 1.5em; margin: 0.5em 0; }
 blockquote { font-style: italic; padding: 0 1em; }
+em { font-style: italic; }
+li { list-style: none; }
 
 .container {
   @include container;
+  hr { @include colruler; }
   #header, #footer {
-    @include column(24); }
-  #sidebar {
-    @include column(8); }
+    @include column(24);
+    text-align: center;
+    margin: 1em;
+  }
+  #sidebar, #navbar {
+    @include column(6); 
+    font-size: 80%;
+  }
+  #navbar {
+    @include colborder;
+  }
   #content {
-    @include column(16, true); } }
+    @include column(9, true); 
+    @include colborder;
+    li:before { content: "\00BB \0020"; }
+  } 
+}
+    

@@ -12,26 +12,27 @@
 <body>
 
   <div class='container'>
-    <div id='sidebar'>
-      <h1><a href="/">TTP</a></h1>
-      <h2>Recent posts</h2>
-      <ul>
-        {% for post in site.posts %}
-          <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-      
-      {% include links.html %}
-      
+    <div id='header'>
+      <h1><a href="/">Transition Tufnell Park</a></h1>
     </div>
+
+    <div id='navbar'>
+      {% include events.html %}
+      {% include news.html %}
+      {% include information.html %}
+    </div>
+    
     <div id='content'>
       <h1>{{ page.title }}</h1>
       {{ content }}
     </div>
+    
+    <div id='sidebar'>
+      {% include links.html %}
+    </div>
+
     <div id='footer'>
-      This is the footer.
+      {% include footer.html %}
     </div>
   </div>
 
