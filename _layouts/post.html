@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>{{ page.title }}</title>
+<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+<!--[if lt IE 8]>
+    <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+  <div class='container'>
+    <div id='header'>
+      <h1><a href="/">Transition Tufnell Park</a></h1>
+    </div>
+
+    <div id='navbar'>
+      {% include events.html %}
+      {% include announcements.html %}
+      {% include blog.html %}
+      {% include information.html %}
+    </div>
+    
+    <div id='content'>
+      <h1>{{ page.title }}</h1>
+      {{ content }}
+    </div>
+    
+    <div id='sidebar'>
+      {% include links.html %}
+    </div>
+
+    <div id='footer'>
+      {% include footer.html %}
+    </div>
+  </div>
+
+</body>
+</html>
