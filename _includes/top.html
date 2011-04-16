@@ -1,0 +1,9 @@
+{% for post in site.posts %}
+  {% if post.top == true %}
+  <h3>
+    {{ post.date | date: "%d %b" }}: {{ post.title }}
+  </h3>
+  {{ post.content }}
+  <hr>
+  {% endif %}
+{% endfor %}
