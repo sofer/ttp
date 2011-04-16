@@ -34,4 +34,7 @@ li { list-style: none; }
     li:before { content: "\00BB \0020"; }
   } 
 }
+
+.masthead { width: image-width("masthead.png"); height: image-height("masthead.png");}
+.logo { width: image-width("logo.png"); height: image-height("logo.png"); padding-top: 1em; }
     
