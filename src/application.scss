@@ -18,6 +18,8 @@ li { list-style: none; }
   hr { @include colruler; }
   #header, #footer {
     @include column(24);
+    font-size: 80%;
+    font-weight: bold;
     text-align: center;
     margin: 1em;
   }
