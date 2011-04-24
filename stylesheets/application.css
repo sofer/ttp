@@ -44,14 +44,19 @@ li {
   list-style: none;
 }
 
-/* line 16, ../src/application.scss */
+/* line 15, ../src/application.scss */
+li:before {
+  content: "\00BB \0020";
+}
+
+/* line 17, ../src/application.scss */
 .container {
   width: 950px;
   margin: 0 auto;
   overflow: hidden;
   *zoom: 1;
 }
-/* line 18, ../src/application.scss */
+/* line 19, ../src/application.scss */
 .container hr {
   background: #dddddd;
   color: #dddddd;
@@ -62,7 +67,7 @@ li {
   margin: 0 0 1.45em;
   border: none;
 }
-/* line 19, ../src/application.scss */
+/* line 20, ../src/application.scss */
 .container #header, .container #footer {
   display: inline;
   float: left;
@@ -77,8 +82,20 @@ li {
 * html .container #header, * html .container #footer {
   overflow-x: hidden;
 }
-/* line 26, ../src/application.scss */
-.container #sidebar, .container #navbar {
+/* line 27, ../src/application.scss */
+.container #picture {
+  display: inline;
+  float: left;
+  margin-right: 10px;
+  width: 590px;
+  text-align: center;
+}
+/* line 138, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.10.6/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html .container #picture {
+  overflow-x: hidden;
+}
+/* line 31, ../src/application.scss */
+.container #sidebar, .container #navbar, .container #masthead {
   display: inline;
   float: left;
   margin-right: 10px;
@@ -86,16 +103,16 @@ li {
   font-size: 80%;
 }
 /* line 138, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.10.6/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
-* html .container #sidebar, * html .container #navbar {
+* html .container #sidebar, * html .container #navbar, * html .container #masthead {
   overflow-x: hidden;
 }
-/* line 30, ../src/application.scss */
+/* line 35, ../src/application.scss */
 .container #navbar {
   padding-right: 24px;
   margin-right: 25px;
   border-right: 1px solid #eeeeee;
 }
-/* line 33, ../src/application.scss */
+/* line 38, ../src/application.scss */
 .container #content {
   display: inline;
   float: left;
@@ -109,25 +126,28 @@ li {
 * html .container #content {
   overflow-x: hidden;
 }
-/* line 36, ../src/application.scss */
-.container #content li:before {
-  content: "\00BB \0020";
-}
 
-/* line 40, ../src/application.scss */
+/* line 44, ../src/application.scss */
 .masthead {
   width: 225px;
   height: 100px;
+  margin-top: 30px;
 }
 
-/* line 41, ../src/application.scss */
+/* line 45, ../src/application.scss */
+.marque {
+  width: 100px;
+  height: 136px;
+  margin: 55px;
+}
+
+/* line 46, ../src/application.scss */
 .ttlogo {
   width: 466px;
   height: 159px;
-  margin-left: -55px;
 }
 
-/* line 42, ../src/application.scss */
+/* line 47, ../src/application.scss */
 .logo {
   width: 96px;
   height: 54px;

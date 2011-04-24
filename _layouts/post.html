@@ -16,18 +16,24 @@
       {% include intro.html %}
     </div>
 
+    <div id="masthead">
+      {% include masthead.html %}
+    </div>
+    
+    <div id="picture">
+      {% include picture.html %}
+    </div>
+        
     <div id='navbar'>
-            <a href="/"><img src="/images/masthead.png" title="Transition Tufnell Park" alt="Transition Tufnell Park" class="masthead"></a>
       {% include events.html %}
       {% include announcements.html %}
       {% include blog.html %}
       {% include information.html %}
+      {% include marque.html %}
     </div>
     
     <div id='content'>
-      
-      {% include masthead.html %}
-            
+                  
       <h1>{{ page.title }}</h1>
       {{ content }}
     </div>

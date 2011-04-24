@@ -12,6 +12,7 @@ p { line-height: 1.5em; margin: 0.5em 0; }
 blockquote { font-style: italic; padding: 0 1em; }
 em { font-style: italic; }
 li { list-style: none; }
+li:before { content: "\00BB \0020"; }
 
 .container {
   @include container;
@@ -23,7 +24,11 @@ li { list-style: none; }
     text-align: center;
     margin: 1em;
   }
-  #sidebar, #navbar {
+  #picture {
+    @include column(15); 
+    text-align: center;
+  }
+  #sidebar, #navbar, #masthead {
     @include column(6); 
     font-size: 80%;
   }
@@ -33,11 +38,11 @@ li { list-style: none; }
   #content {
     @include column(9, true); 
     @include colborder;
-    li:before { content: "\00BB \0020"; }
   } 
 }
 
-.masthead { width: image-width("masthead.png"); height: image-height("masthead.png");}
-.ttlogo { width: image-width("ttlogo.jpg"); height: image-height("ttlogo.jpg"); margin-left: -55px;}
+.masthead { width: image-width("masthead.png"); height: image-height("masthead.png"); margin-top: 30px; }
+.marque { width: image-width("marque.gif"); height: image-height("marque.gif"); margin: 55px; }
+.ttlogo { width: image-width("ttlogo.jpg"); height: image-height("ttlogo.jpg"); }
 .logo { width: image-width("logo.png"); height: image-height("logo.png"); padding-top: 1em; }
     
