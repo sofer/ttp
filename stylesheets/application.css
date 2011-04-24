@@ -121,6 +121,13 @@ li {
 }
 
 /* line 41, ../src/application.scss */
+.ttlogo {
+  width: 466px;
+  height: 159px;
+  margin-left: -55px;
+}
+
+/* line 42, ../src/application.scss */
 .logo {
   width: 96px;
   height: 54px;
