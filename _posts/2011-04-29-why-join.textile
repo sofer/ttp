@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why join a Transition Town?
-author: rose
+author: rosem
 categories: information
 tags: 
 summary: "Why join in with your local community initiatives like Tufnell Park transition town?" 
