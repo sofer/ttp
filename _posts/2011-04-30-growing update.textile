@@ -1,5 +1,4 @@
 ---
-top: true
 layout: post
 title: Growing update
 author: rosem
