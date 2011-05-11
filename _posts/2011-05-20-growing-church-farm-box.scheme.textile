@@ -1,5 +1,4 @@
 ---
-top: true
 layout: post
 title: Church Farm Box Scheme comes to Tufnell Park
 author: ds
