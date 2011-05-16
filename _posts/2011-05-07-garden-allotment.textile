@@ -1,5 +1,4 @@
 ---
-top: true
 layout: post
 title: The Garden Allotment Blog
 author: Penny Cloutte

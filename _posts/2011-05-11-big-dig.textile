@@ -1,5 +1,4 @@
 ---
-top: true
 layout: post
 title: TTP do the Big Dig
 author: pr-b
