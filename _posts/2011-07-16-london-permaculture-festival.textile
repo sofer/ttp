@@ -2,7 +2,7 @@
 layout: post
 title: London Permaculture Festival
 author: ds
-categories: event
+categories: events
 tags: other
 summary: "11am-6pm Cecil Sharp House NW1" 
 ---
