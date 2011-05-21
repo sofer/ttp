@@ -1,0 +1,9 @@
+---
+layout: post
+title: London Permaculture Festival
+author: ds
+categories: event
+tags: other
+summary: "11am-6pm Cecil Sharp House NW1" 
+---
+Inspiring talks, interactive workshops, local food, exciting projects, practical solutions, netowrking opportunities, motivated people. live music, alternative technolog, plus much more..."more information":http://londonpermaculture.com/festival/.
