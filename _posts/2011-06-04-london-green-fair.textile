@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: post
 title: London Green Fair
 author: ds
 categories: events
