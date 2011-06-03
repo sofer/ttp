@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Garden Allotment Blog
-author: Penny Cloutte
+author: Penny
 categories: blog
 tags: growing 
 summary: "They came... and they came.... and they came.... about twenty people all told, though not all at once. Their ages ranged from senior to pre-school, they brought tools and energy, and got stuck in with amazing enthusiasm, good will and spirit of co-operation." 

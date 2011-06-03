@@ -1,4 +1,5 @@
-exclude: 
+exclude:
+- post.rb
 - src
 - README
 - Rakefile
