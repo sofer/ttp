@@ -1,0 +1,23 @@
+---
+layout: post
+top: true
+title: North London Transition Energy
+author: ds
+categories: announcements
+tags: [] 
+summary: "A new joint initiative of Transition groups in North London" 
+---
+We are a group of volunteers involved in several different Transition Town neighbourhoods in North London.
+
+Our aim is to get every building in North London switched over to LED lighting (not very ambitious, then).
+
+We plan to do this by developing an advice service to householders on how to buy and install LED lighting to replace existing halogen and incandescent bulbs.
+
+We are particularly keen to address the issue of fuel poverty by offering a credit facility to householders who cannot afford the upfront cost of replacing their bulbs.
+
+We aim to fund the credit scheme through a variety of means, which might include group buying of LED bulbs, seeking funding from local authorities or the private sector and applying for energyshare funding.
+
+We hope the initiative will eventually be self-funding as loans made for the purchase of bulbs eventually get repaid.
+
+Our members are drawn from Transition Belsize, Transition Primrose Hill, Transition Kentish Town and Transition Tufnell Park. We expect more Transition groups to join up soon.
+Please support us by "joining our group":http://www.energyshare.com/north-london-transition-energy/.
