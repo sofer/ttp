@@ -1,7 +1,7 @@
 ---
 layout: post
 top: true
-title: North London Transition Energy
+title: North London Energy Transition
 author: ds
 categories: announcements
 tags: [] 
