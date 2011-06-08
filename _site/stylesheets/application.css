@@ -1,4 +1,3 @@
-@charset "UTF-8";
 /* line 7, ../src/application.scss */
 body {
   font-family: "Helvetica Neue", "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
@@ -7,7 +6,7 @@ body {
 /* line 8, ../src/application.scss */
 h1 {
   font-size: x-large;
-  margin-top: 1em;
+  margin-top: 0.5em;
 }
 
 /* line 9, ../src/application.scss */
@@ -76,13 +75,45 @@ li:before {
   font-size: 80%;
   font-weight: bold;
   text-align: center;
-  margin: 1em;
 }
-/* line 138, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.10.6/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.11.1/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
 * html .container #header, * html .container #footer {
   overflow-x: hidden;
 }
-/* line 27, ../src/application.scss */
+/* line 26, ../src/application.scss */
+.container #footer {
+  margin: 1em;
+}
+/* line 29, ../src/application.scss */
+.container #header {
+  height: 236px;
+  margin-bottom: -4em;
+}
+/* line 32, ../src/application.scss */
+.container #header p {
+  color: #fff;
+}
+/* line 33, ../src/application.scss */
+.container #header a {
+  color: lightBlue;
+}
+/* line 35, ../src/application.scss */
+.container .home {
+  background-image: url("/images/banner-home.jpg");
+}
+/* line 36, ../src/application.scss */
+.container .energy {
+  background-image: url("/images/banner-energy.jpg");
+}
+/* line 37, ../src/application.scss */
+.container .growing {
+  background-image: url("/images/banner-growing.jpg");
+}
+/* line 38, ../src/application.scss */
+.container .social {
+  background-image: url("/images/banner-social.jpg");
+}
+/* line 39, ../src/application.scss */
 .container #picture {
   display: inline;
   float: left;
@@ -90,33 +121,39 @@ li:before {
   width: 590px;
   text-align: center;
 }
-/* line 138, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.10.6/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.11.1/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
 * html .container #picture {
   overflow-x: hidden;
 }
-/* line 31, ../src/application.scss */
-.container #sidebar, .container #navbar, .container #masthead {
+/* line 43, ../src/application.scss */
+.container #sidebar, .container #navbar {
   display: inline;
   float: left;
   margin-right: 10px;
   width: 230px;
   font-size: 80%;
+  margin-top: 4em;
 }
-/* line 138, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.10.6/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
-* html .container #sidebar, * html .container #navbar, * html .container #masthead {
+/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.11.1/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html .container #sidebar, * html .container #navbar {
   overflow-x: hidden;
 }
-/* line 35, ../src/application.scss */
+/* line 48, ../src/application.scss */
 .container #footnote {
   font-size: 80%;
 }
-/* line 39, ../src/application.scss */
+/* line 49, ../src/application.scss */
+.container #home {
+  font-size: 80%;
+  font-weight: bold;
+}
+/* line 50, ../src/application.scss */
 .container #navbar {
   padding-right: 24px;
   margin-right: 25px;
-  border-right: 1px solid #eeeeee;
+  border-right: 1px solid #dddddd;
 }
-/* line 42, ../src/application.scss */
+/* line 53, ../src/application.scss */
 .container #content {
   display: inline;
   float: left;
@@ -124,34 +161,34 @@ li:before {
   width: 350px;
   padding-right: 24px;
   margin-right: 25px;
-  border-right: 1px solid #eeeeee;
+  border-right: 1px solid #dddddd;
 }
-/* line 138, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.10.6/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.11.1/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
 * html .container #content {
   overflow-x: hidden;
 }
 
-/* line 48, ../src/application.scss */
+/* line 59, ../src/application.scss */
 .masthead {
   width: 225px;
   height: 100px;
   margin-top: 30px;
 }
 
-/* line 49, ../src/application.scss */
+/* line 60, ../src/application.scss */
 .marque {
   width: 100px;
   height: 136px;
   margin: 55px;
 }
 
-/* line 50, ../src/application.scss */
+/* line 61, ../src/application.scss */
 .ttlogo {
   width: 466px;
   height: 159px;
 }
 
-/* line 51, ../src/application.scss */
+/* line 62, ../src/application.scss */
 .logo {
   width: 96px;
   height: 54px;

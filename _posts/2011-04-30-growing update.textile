@@ -2,6 +2,7 @@
 layout: post
 title: Growing update
 author: rosem
+kind: growing
 categories: blog
 tags: growing
 summary: "Grow bags, green growing, secret garden and a new group..."

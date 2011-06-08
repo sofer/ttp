@@ -4,6 +4,7 @@ layout: post
 title: Thursday at the Diner
 author: ds
 categories: announcements
+kind: social
 tags: other
 summary: "Come down to the Community Diner at Whittington Park Community Centre on Thursday evening and every Thursday" 
 ---

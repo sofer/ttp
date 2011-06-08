@@ -2,6 +2,7 @@
 layout: post
 title: Garden Growing
 author: rosem
+kind: growing
 categories: announcements
 tags: growing
 summary: "Want to grow in your garden? Want to grow but don't have a garden? This is the place for you"

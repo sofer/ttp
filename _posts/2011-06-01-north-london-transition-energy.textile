@@ -3,6 +3,7 @@ layout: post
 top: true
 title: North London Energy Transition
 author: ds
+kind: energy
 categories: announcements
 tags: [] 
 summary: "A new joint initiative of Transition groups in North London" 

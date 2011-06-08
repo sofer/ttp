@@ -12,18 +12,10 @@
 <body>
 
   <div class='container'>
-    <div id='header'>
+    <div id='header' class="{{ if page.kind }} {{page.kind}} {{ else }} home {{ end }} }}">
       {% include intro.html %}
     </div>
 
-    <div id="masthead">
-      {% include masthead.html %}
-    </div>
-    
-    <div id="picture">
-      {% include picture.html %}
-    </div>
-        
     <div id='navbar'>
       {% include regulars.html %}
       {% include events.html %}
@@ -34,7 +26,7 @@
     </div>
     
     <div id='content'>
-                  
+      <div id="home"><a href="/">Home</a></div>            
       <h1>{{ page.title }}</h1>
       {{ content }}
     </div>

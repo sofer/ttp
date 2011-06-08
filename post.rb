@@ -12,6 +12,7 @@ layout: post
 top: #{top}
 title: #{title}
 author: #{author}
+kind: home
 categories: #{cat}
 tags: [] 
 summary: "" 

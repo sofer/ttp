@@ -5,7 +5,7 @@
 //$blueprint_grid_width: 40px;
 
 body { font-family: "Helvetica Neue", "Lucida Grande", Helvetica, Arial, Verdana, sans-serif; }
-h1 { font-size: x-large; margin-top: 1em; }
+h1 { font-size: x-large; margin-top: 0.5em; }
 h2 { font-size: large; margin-top: 1em; }
 h3 { font-weight: bold; margin-top: 1em; }
 p { line-height: 1.5em; margin: 0.5em 0; }
@@ -22,20 +22,31 @@ li:before { content: "\00BB \0020"; }
     font-size: 80%;
     font-weight: bold;
     text-align: center;
-    margin: 1em;
   }
+  #footer {
+    margin: 1em;    
+  }
+  #header {
+    height: 236px;
+    margin-bottom: -4em;
+    p { color: #fff; }
+    a { color: lightBlue; }
+  }
+  .home { background-image:url('/images/banner-home.jpg'); }
+  .energy { background-image:url('/images/banner-energy.jpg'); }
+  .growing { background-image:url('/images/banner-growing.jpg'); }
+  .social { background-image:url('/images/banner-social.jpg'); }
   #picture {
     @include column(15); 
     text-align: center;
   }
-  #sidebar, #navbar, #masthead {
+  #sidebar, #navbar {
     @include column(6); 
     font-size: 80%;
+    margin-top: 4em;
   }
-  #footnote {
-    font-size: 80%;
-  }
-  
+  #footnote { font-size: 80%; }
+  #home { font-size: 80%; font-weight: bold; }
   #navbar {
     @include colborder;
   }
