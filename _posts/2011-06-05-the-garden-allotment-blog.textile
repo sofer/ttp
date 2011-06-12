@@ -1,10 +1,10 @@
 ---
 layout: post
-top: F
+top: true
 title: The Garden Allotment Blog
 author: Penny
 kind: growing
-categories: growing
+categories: blog
 tags: [] 
 summary: "The Big Lunch at the Garden!" 
 ---
