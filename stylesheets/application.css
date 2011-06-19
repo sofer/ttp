@@ -5,20 +5,23 @@ body {
 
 /* line 8, ../src/application.scss */
 h1 {
-  font-size: x-large;
+  font-size: 1.4em;
+  font-weight: bold;
   margin-top: 0.5em;
 }
 
 /* line 9, ../src/application.scss */
 h2 {
-  font-size: large;
+  font-size: 1.2em;
+  font-weight: bold;
   margin-top: 1em;
 }
 
 /* line 10, ../src/application.scss */
 h3 {
+  font-size: 1em;
   font-weight: bold;
-  margin-top: 1em;
+  margin-top: 0.5em;
 }
 
 /* line 11, ../src/application.scss */

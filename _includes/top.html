@@ -2,8 +2,11 @@
 
 {% for post in site.posts limit:10 %}
   {% if post.top == true %}
-  <h3>
+  <h2>
     {{ post.date | date: "%d %b" }}: {{ post.title }}
+  </h2>
+  <h3>
+    {{ post.summary }}
   </h3>
   {{ post.content }}
   <hr>
