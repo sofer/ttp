@@ -167,28 +167,32 @@ li:before {
 * html .container #content {
   overflow-x: hidden;
 }
+/* line 57, ../src/application.scss */
+.container #content img {
+  width: 350px;
+}
 
-/* line 59, ../src/application.scss */
+/* line 60, ../src/application.scss */
 .masthead {
   width: 225px;
   height: 100px;
   margin-top: 30px;
 }
 
-/* line 60, ../src/application.scss */
+/* line 61, ../src/application.scss */
 .marque {
   width: 100px;
   height: 136px;
   margin: 55px;
 }
 
-/* line 61, ../src/application.scss */
+/* line 62, ../src/application.scss */
 .ttlogo {
   width: 466px;
   height: 159px;
 }
 
-/* line 62, ../src/application.scss */
+/* line 63, ../src/application.scss */
 .logo {
   width: 96px;
   height: 54px;
