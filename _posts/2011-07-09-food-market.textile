@@ -6,7 +6,7 @@ author: ko
 kind: home
 categories: regular
 tags: [] 
-summary: "Saturdays 11am-4pm from July 9th" 
+summary: "Saturdays 11am-3pm from July 9th" 
 ---
 <img src="/images/foodmarket.png">
 The Tufnell Park Tavern and Transition Town Tufnell Park have been working together to bring a food market to the area. The market will have a range of goods including meat, bread, eggs, cakes, pies, fruit, veg, organic produce, local honey, ice cream and more.
