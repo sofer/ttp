@@ -8,3 +8,9 @@ tags:
 summary: "" 
 ---
 <object width="350" height="284"><param name="movie" value="http://www.youtube.com/v/yW8HnRmSekQ?hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/yW8HnRmSekQ?hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="350" height="284"></embed></object>
+
+The Secret Garden drop-in is on Sundays at 2-4pm.
+
+To get involved or to find out more about new growing projects in Tufnell Park, <script type="text/javascript">document.write(
+"<n uers=\"znvyg:genafvgvba\056ghsaryy\056cnex\100tznvy\056pbz\">".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+</script>email us</a>.
