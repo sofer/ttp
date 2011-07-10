@@ -1,0 +1,19 @@
+---
+layout: post
+top: false
+title: Give blood
+author: ds
+kind: home
+categories: events
+tags: [] 
+summary: "at St. George's Church" 
+---
+Sessions on Friday 15 Jul 2011 at 12:45 to 15:30 and 17:00 to 19:15.
+
+ST GEORGE AND ALL SAINTS
+CRAYFORD ROAD
+TUFNELL PARK
+LONDON
+N7 0ND
+
+http://www.blood.co.uk/
