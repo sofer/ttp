@@ -117,18 +117,6 @@ li:before {
   background-image: url("/images/banner-social.jpg");
 }
 /* line 39, ../src/application.scss */
-.container #picture {
-  display: inline;
-  float: left;
-  margin-right: 10px;
-  width: 590px;
-  text-align: center;
-}
-/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.11.1/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
-* html .container #picture {
-  overflow-x: hidden;
-}
-/* line 43, ../src/application.scss */
 .container #sidebar, .container #navbar {
   display: inline;
   float: left;
@@ -141,22 +129,22 @@ li:before {
 * html .container #sidebar, * html .container #navbar {
   overflow-x: hidden;
 }
-/* line 48, ../src/application.scss */
+/* line 47, ../src/application.scss */
 .container #footnote {
   font-size: 80%;
 }
-/* line 49, ../src/application.scss */
+/* line 48, ../src/application.scss */
 .container #home {
   font-size: 80%;
   font-weight: bold;
 }
-/* line 50, ../src/application.scss */
+/* line 49, ../src/application.scss */
 .container #navbar {
   padding-right: 24px;
   margin-right: 25px;
   border-right: 1px solid #dddddd;
 }
-/* line 53, ../src/application.scss */
+/* line 52, ../src/application.scss */
 .container #content {
   display: inline;
   float: left;
@@ -170,34 +158,40 @@ li:before {
 * html .container #content {
   overflow-x: hidden;
 }
-/* line 57, ../src/application.scss */
+/* line 56, ../src/application.scss */
 .container #content img {
   width: 350px;
 }
 
-/* line 60, ../src/application.scss */
+/* line 59, ../src/application.scss */
 .masthead {
   width: 225px;
   height: 100px;
   margin-top: 30px;
 }
 
-/* line 61, ../src/application.scss */
+/* line 60, ../src/application.scss */
 .marque {
   width: 100px;
   height: 136px;
   margin: 55px;
 }
 
-/* line 62, ../src/application.scss */
+/* line 61, ../src/application.scss */
 .ttlogo {
   width: 466px;
   height: 159px;
 }
 
-/* line 63, ../src/application.scss */
+/* line 62, ../src/application.scss */
 .logo {
   width: 96px;
   height: 54px;
   padding-top: 1em;
+}
+
+/* line 63, ../src/application.scss */
+.like {
+  text-align: right;
+  margin: 0 -78px 10px;
 }
