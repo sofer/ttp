@@ -6,7 +6,7 @@ author: ds
 kind: home
 categories: events
 tags: [] 
-summary: "an initiative of Transition Kentish Town and Transition Tufnell Park &ndash; bringing contemporary art to Kentish Town via The UnShop" 
+summary: "2nd &ndash;23rd September. 2pm-6pm, Tuesday, Wednesday and Thursday" 
 ---
 bq. Happy are those who see beauty in modest spots where others see nothing. Everything is beautiful; the whole secret lies in knowing how to interpret it.
 
