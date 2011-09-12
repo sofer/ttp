@@ -8,7 +8,9 @@ categories: events
 tags: [] 
 summary: "an initiative of Transition Kentish Town and Transition Tufnell Park &ndash; bringing contemporary art to Kentish Town via The UnShop" 
 ---
-Happy are those who see beauty in modest spots where others see nothing. Everything is beautiful; the whole secret lies in knowing how to interpret it Camille Pissarro (1893) quoted in Gillian Tindall&rsquo;s &ldquo;The Fields Beneath The history of One London Village [Kentish Town]&rdquo;
+bq. Happy are those who see beauty in modest spots where others see nothing. Everything is beautiful; the whole secret lies in knowing how to interpret it.
+
+Camille Pissarro (1893) quoted in Gillian Tindall&rsquo;s &ldquo;The Fields Beneath The history of One London Village [Kentish Town]&rdquo;
 
 Transition Kentish Town and Transition Tufnell Park have brought together 7 artists to explore this field, working on the idea of the hidden images and hidden beauty which can emerge from a background of the mundane things which might otherwise be overlooked. Through a range of media the artists interpret this secret beauty, and develop ideas of visual ambiguity and aesthetics, bringing forth unexpected form for &ldquo;those who see where others see nothing&rdquo;.
 
@@ -24,4 +26,8 @@ Address: 16 Fortess Road, Kentish Town, NW5 2EU
 
 Opening times: 2pm-6pm, Tuesday, Wednesday and Thursday
 
-Contact: Liz Sheridan 07812 104 126 e_a_sheridan@yahoo.co.uk; Tom Allen (Transition Kentish Town) 07815 771 939 tom@transitionkentishtown.org.uk 
+Contact: Liz Sheridan 07812 104 126 <script type="text/javascript">document.write(
+"<n uers=\"znvygb:r_n_furevqna\100lnubb\056pb\056hx\">r_n_furevqna\100lnubb\056pb\056hx<\057n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+</script>; Tom Allen (Transition Kentish Town) 07815 771 939 <script type="text/javascript">document.write(
+"<n uers=\"znvygb:gbz\100genafvgvbaxragvfugbja\056bet\056hx\">gbz\100genafvgvbaxragvfugbja\056bet\056hx<\057n> ".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+</script>
