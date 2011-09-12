@@ -1,7 +1,7 @@
 ---
 layout: post
 top: true
-title: The Fields Beneath: an exhibition
+title: "The Fields Beneath: an exhibition"
 author: ds
 kind: home
 categories: events
