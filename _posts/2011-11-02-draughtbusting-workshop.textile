@@ -19,6 +19,6 @@ And get to meet your neighbours.
 Put the date in your diary: 6.30-8.30pm, Wednesday 2nd November. 
 
 Contact <script type="text/javascript">document.write(
-"<n uers=\"genafvgvba\056ghsaryy\056cnex\100tznvy\056pbz\">genafvgvba\056ghsaryy\056cnex\100tznvy\056pbz<\057n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+"<n uers=\"znvygb:genafvgvba\056ghsaryy\056cnex\100tznvy\056pbz\">genafvgvba\056ghsaryy\056cnex\100tznvy\056pbz<\057n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
 </script> to book your place.
 
