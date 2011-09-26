@@ -1,0 +1,29 @@
+---
+layout: post
+top: false
+title: Bike Block
+author: rosem
+kind: social
+categories: events
+tags: [] 
+summary: "5-5.30pm outside Tufnell Park playing fields" 
+---
+DO YOU LIVE IN OR AROUND TUFNELL PARK?
+
+cycling in London is scary, cars are too many and pollution is filthy
+
+LETS GET ON OUR BIKES!
+
+Join the TUFNELL PARK BIKE BLOCK, Thursday 6th October.
+
+Assemble between 5 and 5.30 outside Tufnell Park playing fields, Campdale Road side.
+
+Promoting bicycles, meeting neighbours and cycling safely around the community together we will Bike Block until 6pm where we will reconvene at the Tufnell Park tavern
+
+Bring - your bike and a helmet, all ages welcome!
+
+ONE MORE BIKE MEANS ONE LESS CAR
+
+<script type="text/javascript">document.write(
+"<n uers=\"znvygb:genafvgvba\056ghsaryy\056cnex\100tznvy\056pbz\">genafvgvba\056ghsaryy\056cnex\100tznvy\056pbz<\057n>\n".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+</script>

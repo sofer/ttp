@@ -30,7 +30,7 @@ else
 Usage: /post.rb arg1 "arg2" arg3 "arg4" arg5
 arg1: date in YYYY-MM-DD format
 arg2: title
-arg3: category
+arg3: category (social, energy, growing, information, announcements)
 arg4: author
 arg5: leave blank if not a top story
 USAGE
