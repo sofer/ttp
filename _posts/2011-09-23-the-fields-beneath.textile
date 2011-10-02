@@ -1,6 +1,6 @@
 ---
 layout: post
-top: true
+top: false
 title: "The Fields Beneath: an exhibition"
 author: ds
 kind: home
