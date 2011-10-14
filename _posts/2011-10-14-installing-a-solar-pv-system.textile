@@ -1,0 +1,118 @@
+---
+layout: post
+top: false
+title: Installing a Solar PV system
+author: pl
+kind: energy
+categories: energy
+tags: [] 
+summary: "The Opportunities and Risks in Installing a Solar PV System in your home" 
+---
+*Introduction*
+
+In May of this year we decided to install a solar PV system in our home. We have had it now for nearly 5 months and we are delighted with the results so far. We’ve been asked by people in Transition to do a short piece about:
+- The opportunity that currently exists in the UK for installing solar PV in your home
+- how we made the decision to proceed
+- key things to keep in mind in choosing a system and an installer
+- the process of selecting an installer
+- what savings and benefits we are making having installed the system.
+
+*The Current Opportunity Available in the UK to install solar PV in your home*
+
+In April 2010 the government launched a scheme to encourage the installation of solar PV. The key incentive is that for any system registered by 31 March 2012, where the maximum output is 4kW or less (which equates to a large house system), you receive at present 43.3p per kW hour of electricity generated. This rate is guaranteed and inflation proofed for a period of 25 years from the time your system is registered.
+
+You get in addition, free use of all of the electricity that you generate. That is right, your chosen electricity company pays you this rate for every unit you generate and you can use as much as it as you can as free energy. Additionally, for every unit that you don’t use in your home, this goes back into the national grid. You are paid an additional 3p per kWh for what is called the exported electricity. 
+
+If you compare these rates you will be paid, to the rate you currently pay your electricity supplier for the electricity you buy from them, you will see that you are paying around 13p per kWh. So you are paid to generate solar PV over 3 times the rate currently charged for electricity. The reason for this was to provide a kick start to the market which is very small in the UK compared to European countries such as Germany.
+
+The current published scheme anticipates that from April 2012 there will be a reduction in the rate paid of 8.6% each year through 2019, by which time it was anticipated that the rate paid would equal the common charge for electricity in the market.
+
+Of course the incentivised rate currently paid has a cost that is formally paid by the electricity companies, however they will recover it through higher electricity bills. So in effect, people who install solar PV systems are being subsidised by the rest of the population who don’t do so.
+
+Installing solar PV is not just about the financial benefit, in fact for many people this is not the driver. It reduces your carbon footprint, and it creates the opportunity to generate a substantial portion of your energy needs locally, reducing the national oil and gas dependency of current systems.
+
+The Government has announced a review of the solar PV scheme and has said it will report its conclusions around the end of this year. There is a great deal of speculation that they will announce a much larger reduction in the rate paid for solar PV generation starting April.
+
+*So if you are thinking about possibly putting a solar PV system on your roof, in my view it is important that you do so before 1 April 2012, otherwise the financial framework is likely to be far less advantageous.*
+
+*What is involved in making a decision to proceed*
+
+If you want to explore this you need to address a number of issues:
+- What is it going to cost?
+- What is the anticipated income the system will produce?
+- What will the carbon savings be?
+- Is your roof suitable?
+- Do you require planning permission?
+
+*Cost*
+
+While it is impossible to generalise the cost, because there are some differences between houses such as: 
+the type of scaffolding needed to install the system, 
+equipment chosen for the system
+addressing particular issues such as shading or roof sections not directly south facing and
+the type of monitoring system chosen
+it should now be possible to install most systems at or below £4,000 per kW. A medium size roof typically allows a system of around 2.5Kwh peak and a large roof around 4kW peak. The price of the solar panels themselves has reduced considerably this year, so that installation prices typically have reduced by 10 to 15%. A typical medium size house scheme in London should now therefore be installed for under £10,000 and a large house scheme at under £16,000.
+
+*Potential Income from the system*
+
+Again the income that you will achieve from the system can’t be predicted exactly but there is a standard model used that generally is a conservative estimate of the amount of electricity that your system should produce. Broadly this shows that a 1kwh peak system should generate around 800 kW hours of electricity in London. So taking a typical 2.5kwh system (medium size roof) you could anticipate generating 2000 kW hours of electricity. At the current rate of .433p per Kwh you will be paid £866 for the electricity you produce this year. In addition a further 3p is paid for each unit you export to the grid rather than use yourself. The typical assumption is that you will 50% and export 50%. If this is the case, then you will be paid a further £60 for the electricity you generate.
+
+Finally, you get all of the electricity that you have generated and then use in your home for free. Assuming that you use 50% of what you have generated, this will save you in this illustration, £130 off your current electricity bill.
+
+So in total your annual inflation proofed income would be £1,056. 
+
+We have noted above that you should typically be able to purchase the system for £10,000 or less, so your payback period would be 9 to 10 years, for a scheme that has a guaranteed income stream for 25 years.
+
+*Carbon Offset*
+
+The system illustrated above would provide a carbon offset of approximately 1,200 Kg of CO2. Driving a typical car for around 4,000 miles would emit approximately this amount of carbon. So it is a significant reduction in the carbon that would otherwise be put into the atmosphere in generating this amount of electricity.
+
+*Is your roof suitable for a solar PV system*
+
+To get the most from the system you must have a roof with a south facing outlook. While it doesn’t have to be exactly south facing, the further off south it is, the less efficient the system will be.
+
+Ideally the panels should be laid at an angle of approximately 30 degrees. This is the angle of a typical pitched roof. 
+
+Flats roofs can be used as well. There are two choices in this case. To get the maximum efficiency a structure would be put on the flat roof so the panels are on a 30 degree angle. Alternatively they can be laid flat or nearly flat with an efficiency loss of approximately 10%.
+
+The roof needs to be strong enough to hold the panels, and the roof needs to be in sound condition. If roof works are needed they would best be done before the panels are installed, because otherwise you will bear additional costs later.
+
+*Is planning permission needed?*
+
+Most solar PV schemes don’t require planning permission. However if your home is
+a listed building
+in a conservation area or
+you wish to put a structure on a flat roof 
+you will need to take advice on whether planning permission is required.
+
+*Choosing a system and an installer*
+
+It is very important to keep in mind that not all Solar PV systems are alike and not all installers offer the same installation and after care service. It is important to get several quotations, compare them carefully and don’t assume that the cheapest price will necessarily offer you the best value for money.
+
+Important things to consider are:
+
+- Make sure the installer is MCS accredited (microgeneration certification scheme)
+- The installer should provide you with a warranty on their installation in addition to the warranties on the equipment. The minimum I would consider would be 5 years and there are now installers offering up to 10 years. The installer’s warranty should be backed by insurance (so you are covered if they go into liquidation). A typical scheme of this sort is operated by IWA (www.iwa.biz)
+- Get references from the installers and take them up
+- The efficiency of the solar panels as shown through independent tests (both initially and over time) – The cost of panels differ significantly, and so does the performance they provide – For example, you could pay 20% more for a panel but if it generates 5% more electricity you are far better off having the more expensive panel
+ - You may also be concerned about the size and appearance of the panels – some manufacturers offer black panels others are blue grey, and manufacturers have different size panels with different outputs.
+- The design of the system is crucial. Key elements of design include: 
+ - the inverter(s) used by the installer (the efficiency differs, as does the length of warranty), 
+ - the siting on the panels on the roof (if you have any shading issues, as many London roofs do, then this is a critical matter) 
+ - if you have shading issues or if some panels are going to be installed in different directions than other panels, then it is particularly important to have “impedance matching” equipment in the system to avoid large losses of efficiency. There are several different types of equipment available. You should explore the options and get price comparisons. 
+ - the location of the inverter and meter installed in your home and the wiring between the panels and the inverter. 
+Can the installer deliver your system at the time you want it done and ensure it is registered prior to the 31st March 2012 (assuming that obtaining the current feed in tariff rate is important to you)?
+
+*Our personal experience*
+
+Our system was installed in late May, so it has been operating for approximately 20 weeks. It is a 4Kw peak system, the largest you are allowed to install and receive the .433p/kW generation rate. We have generated 1800 kW hours of electricity, for which we will be paid approximately £800, in addition to which we estimate that we have reduced our electricity bill by approximately £125. 
+
+We have 12 panels on our south facing pitched roof and 4 panels on our flat roof. We chose Sanyo 250 watt panels, although they are amongst the most expensive on the market, they have the amongst the highest efficiency rating. This means they generate more electricity for their size than other panels. This was very important for our roof.
+
+We are a mid terrace house with chimneys on the parapet wall. This means there are significant shading issues to minimise and the design of the panels on our roof was very important.
+
+We decided to use micro-inverters (produced by a company in Cambridge) rather than a traditional inverter. There is a micro inverter placed on each panel rather than all of the panels wired up to a single inverter. The micro inverter approach minimises energy loss due to shading and also produces web based monitoring of the performance of each panel in the system. The initial cost of this approach is higher, but we decided that it was likely to be offset by the higher efficiency of our system.
+
+We had approximately 10 firms come to our house to provide estimates. More than half clearly had no idea how to approach the issues related to implementing a sound proposal for our home. These were in fact the larger firms who sent “salesman” with little apparent knowledge of the issues that needed to be addressed in our system design. We found two firms, both fairly local who took a real interest in coming up with a system that would work well at our home. 
+
+We are really happy with the firm we chose. They installed the system within a day, and have provided really good after care.
