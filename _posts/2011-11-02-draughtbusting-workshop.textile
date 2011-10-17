@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 top: false
 title: Draughtbusting workshop
 author: ds
