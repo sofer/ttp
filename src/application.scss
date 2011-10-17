@@ -54,6 +54,15 @@ li:before { content: "\00BB \0020"; }
     @include colborder;
   }
   #content img { width: 350px; } 
+
+  #article-content {
+    @include column(15, true); 
+  }
+  #article-content li {
+    margin: 4px 0 4px 10px;
+    line-height: 1.2em;
+  }
+
 }
 
 .masthead { width: image-width("masthead.png"); height: image-height("masthead.png"); margin-top: 30px; }

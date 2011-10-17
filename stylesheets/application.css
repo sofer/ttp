@@ -79,7 +79,7 @@ li:before {
   font-weight: bold;
   text-align: center;
 }
-/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.11.1/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+/* line 147, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
 * html .container #header, * html .container #footer {
   overflow-x: hidden;
 }
@@ -125,7 +125,7 @@ li:before {
   font-size: 80%;
   margin-top: 4em;
 }
-/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.11.1/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+/* line 147, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
 * html .container #sidebar, * html .container #navbar {
   overflow-x: hidden;
 }
@@ -154,7 +154,7 @@ li:before {
   margin-right: 25px;
   border-right: 1px solid #dddddd;
 }
-/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.11.1/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+/* line 147, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
 * html .container #content {
   overflow-x: hidden;
 }
@@ -162,35 +162,51 @@ li:before {
 .container #content img {
   width: 350px;
 }
+/* line 58, ../src/application.scss */
+.container #article-content {
+  display: inline;
+  float: left;
+  margin-right: 0;
+  width: 590px;
+}
+/* line 147, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html .container #article-content {
+  overflow-x: hidden;
+}
+/* line 61, ../src/application.scss */
+.container #article-content li {
+  margin: 4px 0 4px 10px;
+  line-height: 1.2em;
+}
 
-/* line 59, ../src/application.scss */
+/* line 68, ../src/application.scss */
 .masthead {
   width: 225px;
   height: 100px;
   margin-top: 30px;
 }
 
-/* line 60, ../src/application.scss */
+/* line 69, ../src/application.scss */
 .marque {
   width: 100px;
   height: 136px;
   margin: 55px;
 }
 
-/* line 61, ../src/application.scss */
+/* line 70, ../src/application.scss */
 .ttlogo {
   width: 466px;
   height: 159px;
 }
 
-/* line 62, ../src/application.scss */
+/* line 71, ../src/application.scss */
 .logo {
   width: 96px;
   height: 54px;
   padding-top: 1em;
 }
 
-/* line 63, ../src/application.scss */
+/* line 72, ../src/application.scss */
 .like {
   text-align: right;
   margin: 0 -78px 10px;

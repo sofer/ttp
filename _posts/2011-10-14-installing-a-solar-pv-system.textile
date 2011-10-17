@@ -1,14 +1,14 @@
 ---
-layout: post
+layout: article
 top: false
 title: Installing a Solar PV system
-author: pl
+author: Paul
 kind: energy
 categories: energy
 tags: [] 
 summary: "The Opportunities and Risks in Installing a Solar PV System in your home" 
 ---
-*Introduction*
+h2. Introduction
 
 In May of this year we decided to install a solar PV system in our home. We have had it now for nearly 5 months and we are delighted with the results so far. We&rsquo;ve been asked by people in Transition to do a short piece about:
 * The opportunity that currently exists in the UK for installing solar PV in your home
@@ -17,7 +17,7 @@ In May of this year we decided to install a solar PV system in our home. We have
 * the process of selecting an installer
 * what savings and benefits we are making having installed the system.
 
-*The Current Opportunity Available in the UK to install solar PV in your home*
+h2. The Current Opportunity Available in the UK to install solar PV in your home
 
 In April 2010 the government launched a scheme to encourage the installation of solar PV. The key incentive is that for any system registered by 31 March 2012, where the maximum output is 4kW or less (which equates to a large house system), you receive at present 43.3p per kW hour of electricity generated. This rate is guaranteed and inflation proofed for a period of 25 years from the time your system is registered.
 
@@ -35,7 +35,7 @@ The Government has announced a review of the solar PV scheme and has said it wil
 
 *So if you are thinking about possibly putting a solar PV system on your roof, in my view it is important that you do so before 1 April 2012, otherwise the financial framework is likely to be far less advantageous.*
 
-*What is involved in making a decision to proceed*
+h2. What is involved in making a decision to proceed
 
 If you want to explore this you need to address a number of issues:
 * What is it going to cost?
@@ -79,13 +79,14 @@ The roof needs to be strong enough to hold the panels, and the roof needs to be 
 
 *Is planning permission needed?*
 
-Most solar PV schemes don&rsquo;t require planning permission. However if your home is
-a listed building
-in a conservation area or
-you wish to put a structure on a flat roof 
+Most solar PV schemes don&rsquo;t require planning permission. However if your home is:
+* a listed building
+* in a conservation area or
+* you wish to put a structure on a flat roof 
+
 you will need to take advice on whether planning permission is required.
 
-*Choosing a system and an installer*
+h2. Choosing a system and an installer
 
 It is very important to keep in mind that not all Solar PV systems are alike and not all installers offer the same installation and after care service. It is important to get several quotations, compare them carefully and don&rsquo;t assume that the cheapest price will necessarily offer you the best value for money.
 
@@ -97,13 +98,13 @@ Important things to consider are:
 * The efficiency of the solar panels as shown through independent tests (both initially and over time) &ndash; The cost of panels differ significantly, and so does the performance they provide &ndash; For example, you could pay 20% more for a panel but if it generates 5% more electricity you are far better off having the more expensive panel
  * You may also be concerned about the size and appearance of the panels &ndash; some manufacturers offer black panels others are blue grey, and manufacturers have different size panels with different outputs.
 * The design of the system is crucial. Key elements of design include: 
- * the inverter(s) used by the installer (the efficiency differs, as does the length of warranty), 
- * the siting on the panels on the roof (if you have any shading issues, as many London roofs do, then this is a critical matter) 
- * if you have shading issues or if some panels are going to be installed in different directions than other panels, then it is particularly important to have &ldquo;impedance matching&rdquo; equipment in the system to avoid large losses of efficiency. There are several different types of equipment available. You should explore the options and get price comparisons. 
- * the location of the inverter and meter installed in your home and the wiring between the panels and the inverter. 
-Can the installer deliver your system at the time you want it done and ensure it is registered prior to the 31st March 2012 (assuming that obtaining the current feed in tariff rate is important to you)?
+** the inverter(s) used by the installer (the efficiency differs, as does the length of warranty), 
+** the siting on the panels on the roof (if you have any shading issues, as many London roofs do, then this is a critical matter) 
+** if you have shading issues or if some panels are going to be installed in different directions than other panels, then it is particularly important to have &ldquo;impedance matching&rdquo; equipment in the system to avoid large losses of efficiency. There are several different types of equipment available. You should explore the options and get price comparisons. 
+** the location of the inverter and meter installed in your home and the wiring between the panels and the inverter. 
+* Can the installer deliver your system at the time you want it done and ensure it is registered prior to the 31st March 2012 (assuming that obtaining the current feed in tariff rate is important to you)?
 
-*Our personal experience*
+h2. Our personal experience
 
 Our system was installed in late May, so it has been operating for approximately 20 weeks. It is a 4Kw peak system, the largest you are allowed to install and receive the .433p/kW generation rate. We have generated 1800 kW hours of electricity, for which we will be paid approximately &pound;800, in addition to which we estimate that we have reduced our electricity bill by approximately &pound;125. 
 
