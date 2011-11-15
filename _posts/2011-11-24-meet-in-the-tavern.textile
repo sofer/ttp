@@ -1,6 +1,6 @@
 ---
 layout: post
-top: false
+top: true
 title: Meet in the Tavern
 author: ds
 kind: social
