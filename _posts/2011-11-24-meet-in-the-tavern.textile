@@ -1,0 +1,11 @@
+---
+layout: post
+top: false
+title: Meet in the Tavern
+author: ds
+kind: social
+categories: social
+tags: [] 
+summary: "Join us for a drink at 7pm" 
+---
+We will be in the Tavern on Thursday 24th november and then on the last thursday of every month (although possibly with a break on December 29th).
