@@ -4,7 +4,7 @@ top: false
 title: Energy talk
 author: ds
 kind: energy
-categories: energy
+categories: events
 tags: [] 
 summary: "November 28th at the Grand Union" 
 ---

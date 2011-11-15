@@ -4,7 +4,7 @@ top: false
 title: Energy group
 author: ds
 kind: energy
-categories: energy,events
+categories: events
 tags: [] 
 summary: "A bit of draught proofing and some food on Wednesday 30th November" 
 ---
