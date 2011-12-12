@@ -1,6 +1,6 @@
 ---
-layout: post
-top: false
+layout: article
+top: true
 title: Draughtbusting workshop
 author: ds
 kind: energy
@@ -8,8 +8,10 @@ categories: events
 tags: [] 
 summary: "6.30-8.30pm, Tufnell Park Road" 
 ---
-<iframe src="http://player.vimeo.com/video/33217870?title=0&amp;byline=0&amp;portrait=0" width="400" height="220" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="http://vimeo.com/33217870">Draughtbusting workshop</a></p>
+<iframe src="http://player.vimeo.com/video/33217870?title=0&amp;byline=0&amp;portrait=0" width="400" height="220" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+Our draught proofing workshop took place on November 2nd. Many thanks to Louise of <a href="http://vimeo.com/setlaproductions">Setla Productions</a>, who hosted the event and provided the video.
 
+<!--
 November 2nd November
 
 Join us for a special Transition draughtbusting workshop on Tufnell Park Road. 
@@ -25,4 +27,4 @@ Put the date in your diary: 6.30-8.30pm, Wednesday 2nd November.
 Contact <script type="text/javascript">document.write(
 "<n uers=\"znvygb:genafvgvba\056ghsaryy\056cnex\100tznvy\056pbz\">genafvgvba\056ghsaryy\056cnex\100tznvy\056pbz<\057n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
 </script> to book your place.
-
+-->
