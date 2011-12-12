@@ -6,7 +6,7 @@ author: ds
 kind: energy
 categories: events
 tags: [] 
-summary: "6.30-8.30pm, Tufnell Park Road" 
+summary: "" 
 ---
 <iframe src="http://player.vimeo.com/video/33217870?title=0&amp;byline=0&amp;portrait=0" width="400" height="220" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 Our draught proofing workshop took place on November 2nd. Many thanks to Louise of <a href="http://vimeo.com/setlaproductions">Setla Productions</a>, who hosted the event and provided the video.
