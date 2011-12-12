@@ -1,0 +1,11 @@
+---
+layout: post
+top: true
+title: Green Drinks
+author: ds
+kind: social
+categories: social
+tags: [] 
+summary: "Time to find out what it's all about, meet new neighbours and friends, plan future projects, have a drink and relax into the Transition" 
+---
+Tufnell Park Tavern, Thursday 22nd December, from 7pm

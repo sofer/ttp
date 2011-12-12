@@ -8,6 +8,8 @@ categories: events
 tags: [] 
 summary: "6.30-8.30pm, Tufnell Park Road" 
 ---
+<iframe src="http://player.vimeo.com/video/33217870?title=0&amp;byline=0&amp;portrait=0" width="400" height="220" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="http://vimeo.com/33217870">Draughtbusting workshop</a></p>
+
 November 2nd November
 
 Join us for a special Transition draughtbusting workshop on Tufnell Park Road. 
