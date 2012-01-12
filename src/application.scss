@@ -1,10 +1,12 @@
 @import "blueprint";
 @import "compass";
 
-//$blueprint-grid-columns: 16;
-//$blueprint_grid_width: 40px;
+$blueprint-grid-columns: 24;
+$blueprint_grid_width: 30px;
+$blueprint-grid-margin: 10px;
 
-body { font-family: "Helvetica Neue", "Lucida Grande", Helvetica, Arial, Verdana, sans-serif; }
+
+body { font-family: "Helvetica Neue", "Lucida Grande", Helvetica, Arial, Verdana, sans-serif; background-color: #376797;}
 h1 { font-size: 1.4em; font-weight: bold; margin-top: 0.5em; }
 h2 { font-size: 1.2em; font-weight: bold; margin-top: 1em; }
 h3 { font-size: 1em; font-weight: bold; margin-top: 0.5em; }
@@ -16,7 +18,11 @@ li:before { content: "\00BB \0020"; }
 
 .container {
   @include container;
-  hr { @include colruler; }
+  background-color: #fff;
+  
+  hr { 
+    @include colruler; 
+  }
   #header, #footer {
     @include column(24);
     font-size: 80%;
@@ -28,7 +34,7 @@ li:before { content: "\00BB \0020"; }
   }
   #header {
     height: 236px;
-    margin-bottom: -4em;
+    margin-bottom: -1em;
     p { color: #fff; }
     a { color: lightBlue; }
   }
@@ -39,7 +45,6 @@ li:before { content: "\00BB \0020"; }
   #sidebar, #navbar {
     @include column(6); 
     font-size: 80%;
-    margin-top: 4em;
   }
   #sidebar {
   }
@@ -47,16 +52,21 @@ li:before { content: "\00BB \0020"; }
   #footnote { font-size: 80%; }
   #home { font-size: 80%; font-weight: bold; }
   #navbar {
-    @include colborder;
+    //@include column-gap(20px);
+    //@include colborder;
   }
   #content {
-    @include column(9, true); 
-    @include colborder;
+    @include column(11, true); 
+    //@include column-gap(20px);
+    //@include colborder;
+    //padding-left: 10px;
+    @include prepend(1);
   }
   #content img { width: 350px; } 
 
   #article-content {
-    @include column(15, true); 
+    @include column(17, true); 
+    @include prepend(1);
   }
   #article-content li {
     margin: 4px 0 4px 10px;

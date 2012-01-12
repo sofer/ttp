@@ -28,6 +28,16 @@
       {% include intro.html %}
     </div>
 
+    <div id='article-content'>
+      <div id="home"><a href="/">Home</a></div>            
+      <h1>{{ page.title }}</h1>
+      <h3>{{ page.summary }}</h3>
+      {{ content }}
+      
+      <p><em>{{ page.author }}, {{ page.date | date: "%d %B %Y" }}</em></p>
+      
+    </div>
+
     <div id='navbar'>
       {% include regulars.html %}
       {% include events.html %}
@@ -49,17 +59,7 @@
       {% include facebook.html %}
 
     </div>
-    
-    <div id='article-content'>
-      <div id="home"><a href="/">Home</a></div>            
-      <h1>{{ page.title }}</h1>
-      <h3>{{ page.summary }}</h3>
-      {{ content }}
-      
-      <p><em>{{ page.author }}, {{ page.date | date: "%d %B %Y" }}</em></p>
-      
-    </div>
-    
+        
     {% include footer.html %}
 
   </div>

@@ -1,64 +1,66 @@
-/* line 7, ../src/application.scss */
+/* line 9, ../src/application.scss */
 body {
   font-family: "Helvetica Neue", "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
+  background-color: #376797;
 }
 
-/* line 8, ../src/application.scss */
+/* line 10, ../src/application.scss */
 h1 {
   font-size: 1.4em;
   font-weight: bold;
   margin-top: 0.5em;
 }
 
-/* line 9, ../src/application.scss */
+/* line 11, ../src/application.scss */
 h2 {
   font-size: 1.2em;
   font-weight: bold;
   margin-top: 1em;
 }
 
-/* line 10, ../src/application.scss */
+/* line 12, ../src/application.scss */
 h3 {
   font-size: 1em;
   font-weight: bold;
   margin-top: 0.5em;
 }
 
-/* line 11, ../src/application.scss */
+/* line 13, ../src/application.scss */
 p {
   line-height: 1.5em;
   margin: 0.5em 0;
 }
 
-/* line 12, ../src/application.scss */
+/* line 14, ../src/application.scss */
 blockquote {
   font-style: italic;
   padding: 0 1em;
 }
 
-/* line 13, ../src/application.scss */
+/* line 15, ../src/application.scss */
 em {
   font-style: italic;
 }
 
-/* line 14, ../src/application.scss */
+/* line 16, ../src/application.scss */
 li {
   list-style: none;
 }
 
-/* line 15, ../src/application.scss */
+/* line 17, ../src/application.scss */
 li:before {
   content: "\00BB \0020";
 }
 
-/* line 17, ../src/application.scss */
+/* line 19, ../src/application.scss */
 .container {
   width: 950px;
   margin: 0 auto;
   overflow: hidden;
   *zoom: 1;
+  background-color: #fff;
 }
-/* line 19, ../src/application.scss */
+/* line 23, ../src/application.scss */
 .container hr {
   background: #dddddd;
   color: #dddddd;
@@ -69,7 +71,7 @@ li:before {
   margin: 0 0 1.45em;
   border: none;
 }
-/* line 20, ../src/application.scss */
+/* line 26, ../src/application.scss */
 .container #header, .container #footer {
   display: inline;
   float: left;
@@ -83,130 +85,122 @@ li:before {
 * html .container #header, * html .container #footer {
   overflow-x: hidden;
 }
-/* line 26, ../src/application.scss */
+/* line 32, ../src/application.scss */
 .container #footer {
   margin: 1em;
 }
-/* line 29, ../src/application.scss */
+/* line 35, ../src/application.scss */
 .container #header {
   height: 236px;
-  margin-bottom: -4em;
+  margin-bottom: -1em;
 }
-/* line 32, ../src/application.scss */
+/* line 38, ../src/application.scss */
 .container #header p {
   color: #fff;
 }
-/* line 33, ../src/application.scss */
+/* line 39, ../src/application.scss */
 .container #header a {
   color: lightBlue;
 }
-/* line 35, ../src/application.scss */
+/* line 41, ../src/application.scss */
 .container .home {
   background-image: url("/images/banner-home.jpg");
 }
-/* line 36, ../src/application.scss */
+/* line 42, ../src/application.scss */
 .container .energy {
   background-image: url("/images/banner-energy.jpg");
 }
-/* line 37, ../src/application.scss */
+/* line 43, ../src/application.scss */
 .container .growing {
   background-image: url("/images/banner-growing.jpg");
 }
-/* line 38, ../src/application.scss */
+/* line 44, ../src/application.scss */
 .container .social {
   background-image: url("/images/banner-social.jpg");
 }
-/* line 39, ../src/application.scss */
+/* line 45, ../src/application.scss */
 .container #sidebar, .container #navbar {
   display: inline;
   float: left;
   margin-right: 10px;
   width: 230px;
   font-size: 80%;
-  margin-top: 4em;
 }
 /* line 147, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
 * html .container #sidebar, * html .container #navbar {
   overflow-x: hidden;
 }
-/* line 47, ../src/application.scss */
+/* line 52, ../src/application.scss */
 .container #footnote {
   font-size: 80%;
 }
-/* line 48, ../src/application.scss */
+/* line 53, ../src/application.scss */
 .container #home {
   font-size: 80%;
   font-weight: bold;
 }
-/* line 49, ../src/application.scss */
-.container #navbar {
-  padding-right: 24px;
-  margin-right: 25px;
-  border-right: 1px solid #dddddd;
-}
-/* line 52, ../src/application.scss */
+/* line 58, ../src/application.scss */
 .container #content {
   display: inline;
   float: left;
   margin-right: 0;
-  width: 350px;
-  padding-right: 24px;
-  margin-right: 25px;
-  border-right: 1px solid #dddddd;
+  width: 430px;
+  padding-left: 40px;
 }
 /* line 147, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
 * html .container #content {
   overflow-x: hidden;
 }
-/* line 56, ../src/application.scss */
+/* line 65, ../src/application.scss */
 .container #content img {
   width: 350px;
 }
-/* line 58, ../src/application.scss */
+/* line 67, ../src/application.scss */
 .container #article-content {
   display: inline;
   float: left;
   margin-right: 0;
-  width: 590px;
+  width: 670px;
+  padding-left: 40px;
 }
 /* line 147, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
 * html .container #article-content {
   overflow-x: hidden;
 }
-/* line 61, ../src/application.scss */
+/* line 71, ../src/application.scss */
 .container #article-content li {
   margin: 4px 0 4px 10px;
   line-height: 1.2em;
 }
 
-/* line 68, ../src/application.scss */
+/* line 78, ../src/application.scss */
 .masthead {
   width: 225px;
   height: 100px;
   margin-top: 30px;
 }
 
-/* line 69, ../src/application.scss */
+/* line 79, ../src/application.scss */
 .marque {
   width: 100px;
   height: 136px;
   margin: 55px;
 }
 
-/* line 70, ../src/application.scss */
+/* line 80, ../src/application.scss */
 .ttlogo {
   width: 466px;
   height: 159px;
 }
 
-/* line 71, ../src/application.scss */
+/* line 81, ../src/application.scss */
 .logo {
   width: 96px;
   height: 54px;
   padding-top: 1em;
 }
 
-/* line 72, ../src/application.scss */
+/* line 82, ../src/application.scss */
 .like {
   text-align: right;
   margin: 0 -78px 10px;
