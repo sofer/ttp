@@ -6,7 +6,7 @@ author: rm
 kind: home
 categories: announcements
 tags: [market] 
-summary: "28th January at the Tufnell Park Market" 
+summary: "at the Tufnell Park Market this Saturday" 
 ---
 De-clutter after Christmas, recycle resources and shop till you drop all for free!
 
