@@ -28,7 +28,7 @@ h3 {
 /* line 13, ../src/application.scss */
 p {
   line-height: 1.5em;
-  margin: 0.5em 0;
+  margin: 0 0 0.5em 0;
 }
 
 /* line 14, ../src/application.scss */
@@ -81,7 +81,7 @@ li:before {
   font-weight: bold;
   text-align: center;
 }
-/* line 147, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.11.1/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
 * html .container #header, * html .container #footer {
   overflow-x: hidden;
 }
@@ -126,7 +126,7 @@ li:before {
   width: 230px;
   font-size: 80%;
 }
-/* line 147, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.11.1/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
 * html .container #sidebar, * html .container #navbar {
   overflow-x: hidden;
 }
@@ -147,7 +147,7 @@ li:before {
   width: 430px;
   padding-left: 40px;
 }
-/* line 147, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.11.1/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
 * html .container #content {
   overflow-x: hidden;
 }
@@ -163,7 +163,7 @@ li:before {
   width: 670px;
   padding-left: 40px;
 }
-/* line 147, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.11.1/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
 * html .container #article-content {
   overflow-x: hidden;
 }
