@@ -62,7 +62,7 @@ li:before { content: "\00BB \0020"; }
     //padding-left: 10px;
     @include prepend(1);
   }
-  #content img { width: 350px; } 
+  #content img { width: 420px; } 
 
   #article-content {
     @include column(17, true); 
