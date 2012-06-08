@@ -1,0 +1,13 @@
+---
+layout: post
+top: true
+title: North London Festival of Transition
+author: rm
+kind: home
+categories: events
+tags: [] 
+summary: "12th to 22nd June" 
+---
+<img src="/images/fot.jpg">
+
+
