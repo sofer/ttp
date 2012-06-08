@@ -3,8 +3,8 @@ layout: post
 top: true
 title: Frolicking and Foraging for All
 author: rm
-kind: social
-categories: social
+kind: events
+categories: events
 tags: [] 
 summary: "Meet at the playing fields at 6.30pm" 
 ---

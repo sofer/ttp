@@ -3,8 +3,8 @@ layout: post
 top: true
 title: Free shop, and Visioning and Nettle Pesto at the Market
 author: rm
-kind: home
-categories: event
+kind: events
+categories: events
 tags: [] 
 summary: "11am-3pm" 
 ---
