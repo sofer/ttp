@@ -33,5 +33,6 @@ arg2: title
 arg3: category (social, energy, growing, information, announcements)
 arg4: author
 arg5: leave blank if not a top story
+(also 'social', 'energy' and 'growing' categories have their own 'kind' of background)
 USAGE
 end
