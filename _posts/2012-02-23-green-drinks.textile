@@ -1,6 +1,6 @@
 ---
 layout: post
-top: true
+top: 
 title: Transition Tufnell Park Green Drinks
 author: ds
 kind: social

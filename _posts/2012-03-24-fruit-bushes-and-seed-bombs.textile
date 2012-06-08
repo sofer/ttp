@@ -1,6 +1,6 @@
 ---
 layout: post
-top: true
+top: 
 title: Fruit Bushes and Seed Bombs
 author: sg
 kind: home
