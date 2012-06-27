@@ -1,6 +1,6 @@
 ---
 layout: post
-top: true
+top: false
 title: North London Festival of Transition
 author: rm
 kind: home

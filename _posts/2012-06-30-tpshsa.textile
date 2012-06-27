@@ -10,6 +10,4 @@ summary: "Tufnell Park School HSA"
 ---
 "Tufnell Park School Home School Association":www.tpshsa.wordpress.com will be selling raffle tickets and explaining their Playground Project and other ideas at the Tufnell Park Tavern Farmer's Market this coming Saturday, the 30th, between 1100 and 1500 hours. 
 
-If anyone would like to help out with a stint on the stall let them know at <script type="text/javascript">document.write(
-"\"gcfufna7\100tznvy\056pbz\":znvygb:gcfufna7\100tznvy\056pbz".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
-</script>.
+If anyone would like to help out with a stint on the stall let them know at "tpshsan7@gmail.com":mailto:tpshsan7@gmail.com.
