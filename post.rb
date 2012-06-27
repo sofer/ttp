@@ -23,7 +23,7 @@ OUTLINE
   File.open(file, 'w') do |f|
     f.write(outline)
   end
-  puts "writen #{file}"
+  puts "written #{file}"
 
 else
   puts <<USAGE
