@@ -4,7 +4,7 @@ top: true
 title: Knitting on Tuesday
 author: true
 kind: social
-categories: social
+categories: events
 tags: [] 
 summary: "Our first knitting and sewing group meet up" 
 ---
