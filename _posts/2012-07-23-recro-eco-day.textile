@@ -4,7 +4,7 @@ top:
 title: RECRO Eco Day
 author: rm
 kind: social
-categories: social
+categories: events
 tags: [] 
 summary: "at Waterlow Park" 
 ---
