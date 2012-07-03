@@ -6,12 +6,13 @@ author: true
 kind: social
 categories: social
 tags: [] 
-summary: "Transition Tufnell Park's first knitting and sewing group meet up" 
+summary: "Our first knitting and sewing group meet up" 
 ---
-When? Tuesday 3rd July at 6pm
 
-Where? Cafe Rustique, 142, Fortress Road
+*When?* Tuesday 3rd July at 6pm
 
-Who? Anybody at all, of any experience. There will be lots of beginners!
+*Where?* Cafe Rustique, 142, Fortress Road
+
+*Who?* Anybody at all, of any experience. There will be lots of beginners!
 
 Materials for beginners will be provided.
