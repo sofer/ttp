@@ -1,12 +1,8 @@
-@import "blueprint";
-@import "compass";
+@import "partials/base";
 
-$blueprint-grid-columns: 24;
-$blueprint_grid_width: 30px;
-$blueprint-grid-margin: 10px;
+$background: #296796;
 
-
-body { font-family: "Helvetica Neue", "Lucida Grande", Helvetica, Arial, Verdana, sans-serif; background-color: #376797;}
+body { font-family: "Helvetica Neue", "Lucida Grande", Helvetica, Arial, Verdana, sans-serif; background-color: $background;}
 h1 { font-size: 1.4em; font-weight: bold; margin-top: 0.5em; }
 h2 { font-size: 1.2em; font-weight: bold; margin-top: 1em; }
 h3 { font-size: 1em; font-weight: bold; margin-top: 0.5em; }
@@ -23,14 +19,14 @@ li:before { content: "\00BB \0020"; }
   hr { 
     @include colruler; 
   }
-  #header, #footer {
-    @include column(24);
+  #header, #footer, ul#navigation {
+    @include column(24,true);
     font-size: 80%;
     font-weight: bold;
     text-align: center;
   }
   #footer {
-    margin: 1em;    
+    margin: 1em;
   }
   #header {
     height: 236px;
@@ -42,19 +38,77 @@ li:before { content: "\00BB \0020"; }
   .energy { background-image:url('/images/banner-energy.jpg'); }
   .growing { background-image:url('/images/banner-growing.jpg'); }
   .social { background-image:url('/images/banner-social.jpg'); }
-  #sidebar, #navbar {
+  
+  ul#navigation {
+    @include horizontal-list;
+    @include no-bullets;
+    margin: 3px;
+  }
+  ul#navigation li {
+    width: 136px; 
+    padding: 0;
+    line-height: 32px;
+    margin-left: -1px;
+  }
+  ul#navigation li:before { content: none; }
+  
+  ul#navigation li a {
+    text-decoration: none;
+    color: #000;
+    display: block;
+    font-size: 1.2em;
+    border: 1px solid DarkGrey;
+    background-color: LightGrey;
+  }
+  ul#navigation li a:hover {
+    background: LightBlue; /*#ccc;*/
+  }
+  
+  #sidebar, #navbar, #side {
     @include column(6); 
     font-size: 80%;
   }
-  #sidebar {
+  #side {
+    @include last;
   }
   
-  #footnote { font-size: 80%; }
   #home { font-size: 80%; font-weight: bold; }
   #navbar {
     //@include column-gap(20px);
     //@include colborder;
   }
+  #homecontent {
+    @include column(18);
+    #homebox {
+      margin: 0 3px 30px;
+      border: 2px solid DarkGrey; 
+      height: 350px;
+      #homepic {
+        @include column(12, true);
+        img { 
+          width: 100%;
+        }
+      }
+      #hometrails {
+        @include column(6, true);
+        ul {
+          border-left: 1px solid DarkGrey;
+          margin-top: -1px;
+          li {
+            padding: 4px;
+            height: 108px;
+            overflow: hidden;
+            border-top: 1px solid DarkGrey; 
+          }
+        li:before { content: none; }
+        }
+      }
+    }
+    #homecopy { 
+      @include prepend(1);
+    }
+  }
+
   #content {
     @include column(11, true); 
     //@include column-gap(20px);
@@ -62,6 +116,7 @@ li:before { content: "\00BB \0020"; }
     //padding-left: 10px;
     @include prepend(1);
   }
+
   #content img { width: 420px; } 
 
   #article-content {
@@ -73,10 +128,12 @@ li:before { content: "\00BB \0020"; }
     line-height: 1.2em;
   }
 
+  #footnote { font-size: 80%; }
 }
 
 .masthead { width: image-width("masthead.png"); height: image-height("masthead.png"); margin-top: 30px; }
-.marque { width: image-width("marque.gif"); height: image-height("marque.gif"); margin: 55px; }
+.marque { width: image-width("marque.gif"); height: image-height("marque.gif"); display: block; margin: 40px auto; }
 .ttlogo { width: image-width("ttlogo.jpg"); height: image-height("ttlogo.jpg"); }
 .logo { width: image-width("logo.png"); height: image-height("logo.png"); padding-top: 1em; }
 .like { text-align: right; margin: 0 -78px 10px;}    
+.rightpad {padding-right: 4px;}

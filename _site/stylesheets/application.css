@@ -1,58 +1,58 @@
-/* line 9, ../src/application.scss */
+/* line 5, ../src/application.scss */
 body {
   font-family: "Helvetica Neue", "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
-  background-color: #376797;
+  background-color: #296796;
 }
 
-/* line 10, ../src/application.scss */
+/* line 6, ../src/application.scss */
 h1 {
   font-size: 1.4em;
   font-weight: bold;
   margin-top: 0.5em;
 }
 
-/* line 11, ../src/application.scss */
+/* line 7, ../src/application.scss */
 h2 {
   font-size: 1.2em;
   font-weight: bold;
   margin-top: 1em;
 }
 
-/* line 12, ../src/application.scss */
+/* line 8, ../src/application.scss */
 h3 {
   font-size: 1em;
   font-weight: bold;
   margin-top: 0.5em;
 }
 
-/* line 13, ../src/application.scss */
+/* line 9, ../src/application.scss */
 p {
   line-height: 1.5em;
   margin: 0 0 0.5em 0;
 }
 
-/* line 14, ../src/application.scss */
+/* line 10, ../src/application.scss */
 blockquote {
   font-style: italic;
   padding: 0 1em;
 }
 
-/* line 15, ../src/application.scss */
+/* line 11, ../src/application.scss */
 em {
   font-style: italic;
 }
 
-/* line 16, ../src/application.scss */
+/* line 12, ../src/application.scss */
 li {
   list-style: none;
 }
 
-/* line 17, ../src/application.scss */
+/* line 13, ../src/application.scss */
 li:before {
   content: "\00BB \0020";
 }
 
-/* line 19, ../src/application.scss */
+/* line 15, ../src/application.scss */
 .container {
   width: 950px;
   margin: 0 auto;
@@ -60,7 +60,7 @@ li:before {
   *zoom: 1;
   background-color: #fff;
 }
-/* line 23, ../src/application.scss */
+/* line 19, ../src/application.scss */
 .container hr {
   background: #dddddd;
   color: #dddddd;
@@ -71,75 +71,202 @@ li:before {
   margin: 0 0 1.45em;
   border: none;
 }
-/* line 26, ../src/application.scss */
-.container #header, .container #footer {
+/* line 22, ../src/application.scss */
+.container #header, .container #footer, .container ul#navigation {
   display: inline;
   float: left;
-  margin-right: 10px;
+  margin-right: 0;
   width: 950px;
   font-size: 80%;
   font-weight: bold;
   text-align: center;
 }
-/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.11.1/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
-* html .container #header, * html .container #footer {
+/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.12.2/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html .container #header, * html .container #footer, * html .container ul#navigation {
   overflow-x: hidden;
 }
-/* line 32, ../src/application.scss */
+/* line 28, ../src/application.scss */
 .container #footer {
   margin: 1em;
 }
-/* line 35, ../src/application.scss */
+/* line 31, ../src/application.scss */
 .container #header {
   height: 236px;
   margin-bottom: -1em;
 }
-/* line 38, ../src/application.scss */
+/* line 34, ../src/application.scss */
 .container #header p {
   color: #fff;
 }
-/* line 39, ../src/application.scss */
+/* line 35, ../src/application.scss */
 .container #header a {
   color: lightBlue;
 }
-/* line 41, ../src/application.scss */
+/* line 37, ../src/application.scss */
 .container .home {
   background-image: url("/images/banner-home.jpg");
 }
-/* line 42, ../src/application.scss */
+/* line 38, ../src/application.scss */
 .container .energy {
   background-image: url("/images/banner-energy.jpg");
 }
-/* line 43, ../src/application.scss */
+/* line 39, ../src/application.scss */
 .container .growing {
   background-image: url("/images/banner-growing.jpg");
 }
-/* line 44, ../src/application.scss */
+/* line 40, ../src/application.scss */
 .container .social {
   background-image: url("/images/banner-social.jpg");
 }
-/* line 45, ../src/application.scss */
-.container #sidebar, .container #navbar {
+/* line 42, ../src/application.scss */
+.container ul#navigation {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  *zoom: 1;
+  list-style: none;
+  margin: 3px;
+}
+/* line 60, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_horizontal-list.scss */
+.container ul#navigation li {
+  list-style-image: none;
+  list-style-type: none;
+  margin-left: 0;
+  white-space: nowrap;
+  display: inline;
+  float: left;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+/* line 48, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_horizontal-list.scss */
+.container ul#navigation li:first-child, .container ul#navigation li.first {
+  padding-left: 0;
+}
+/* line 49, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_horizontal-list.scss */
+.container ul#navigation li:last-child {
+  padding-right: 0;
+}
+/* line 50, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_horizontal-list.scss */
+.container ul#navigation li.last {
+  padding-right: 0;
+}
+/* line 11, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_bullets.scss */
+.container ul#navigation li {
+  list-style-image: none;
+  list-style-type: none;
+  margin-left: 0;
+}
+/* line 47, ../src/application.scss */
+.container ul#navigation li {
+  width: 136px;
+  padding: 0;
+  line-height: 32px;
+  margin-left: -1px;
+}
+/* line 53, ../src/application.scss */
+.container ul#navigation li:before {
+  content: none;
+}
+/* line 55, ../src/application.scss */
+.container ul#navigation li a {
+  text-decoration: none;
+  color: #000;
+  display: block;
+  font-size: 1.2em;
+  border: 1px solid DarkGrey;
+  background-color: LightGrey;
+}
+/* line 63, ../src/application.scss */
+.container ul#navigation li a:hover {
+  background: LightBlue;
+  /*#ccc;*/
+}
+/* line 67, ../src/application.scss */
+.container #sidebar, .container #navbar, .container #side {
   display: inline;
   float: left;
   margin-right: 10px;
   width: 230px;
   font-size: 80%;
 }
-/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.11.1/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
-* html .container #sidebar, * html .container #navbar {
+/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.12.2/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html .container #sidebar, * html .container #navbar, * html .container #side {
   overflow-x: hidden;
 }
-/* line 52, ../src/application.scss */
-.container #footnote {
-  font-size: 80%;
+/* line 71, ../src/application.scss */
+.container #side {
+  margin-right: 0;
 }
-/* line 53, ../src/application.scss */
+/* line 75, ../src/application.scss */
 .container #home {
   font-size: 80%;
   font-weight: bold;
 }
-/* line 58, ../src/application.scss */
+/* line 80, ../src/application.scss */
+.container #homecontent {
+  display: inline;
+  float: left;
+  margin-right: 10px;
+  width: 710px;
+}
+/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.12.2/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html .container #homecontent {
+  overflow-x: hidden;
+}
+/* line 82, ../src/application.scss */
+.container #homecontent #homebox {
+  margin: 0 3px 30px;
+  border: 2px solid DarkGrey;
+  height: 350px;
+}
+/* line 86, ../src/application.scss */
+.container #homecontent #homebox #homepic {
+  display: inline;
+  float: left;
+  margin-right: 0;
+  width: 470px;
+}
+/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.12.2/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html .container #homecontent #homebox #homepic {
+  overflow-x: hidden;
+}
+/* line 88, ../src/application.scss */
+.container #homecontent #homebox #homepic img {
+  width: 100%;
+}
+/* line 92, ../src/application.scss */
+.container #homecontent #homebox #hometrails {
+  display: inline;
+  float: left;
+  margin-right: 0;
+  width: 230px;
+}
+/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.12.2/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html .container #homecontent #homebox #hometrails {
+  overflow-x: hidden;
+}
+/* line 94, ../src/application.scss */
+.container #homecontent #homebox #hometrails ul {
+  border-left: 1px solid DarkGrey;
+  margin-top: -1px;
+}
+/* line 97, ../src/application.scss */
+.container #homecontent #homebox #hometrails ul li {
+  padding: 4px;
+  height: 108px;
+  overflow: hidden;
+  border-top: 1px solid DarkGrey;
+}
+/* line 103, ../src/application.scss */
+.container #homecontent #homebox #hometrails ul li:before {
+  content: none;
+}
+/* line 107, ../src/application.scss */
+.container #homecontent #homecopy {
+  padding-left: 40px;
+}
+/* line 112, ../src/application.scss */
 .container #content {
   display: inline;
   float: left;
@@ -147,15 +274,15 @@ li:before {
   width: 430px;
   padding-left: 40px;
 }
-/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.11.1/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.12.2/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
 * html .container #content {
   overflow-x: hidden;
 }
-/* line 65, ../src/application.scss */
+/* line 120, ../src/application.scss */
 .container #content img {
   width: 420px;
 }
-/* line 67, ../src/application.scss */
+/* line 122, ../src/application.scss */
 .container #article-content {
   display: inline;
   float: left;
@@ -163,45 +290,55 @@ li:before {
   width: 670px;
   padding-left: 40px;
 }
-/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.11.1/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+/* line 147, ../../../.rvm/gems/ruby-1.9.2-p180/gems/compass-0.12.2/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
 * html .container #article-content {
   overflow-x: hidden;
 }
-/* line 71, ../src/application.scss */
+/* line 126, ../src/application.scss */
 .container #article-content li {
   margin: 4px 0 4px 10px;
   line-height: 1.2em;
 }
+/* line 131, ../src/application.scss */
+.container #footnote {
+  font-size: 80%;
+}
 
-/* line 78, ../src/application.scss */
+/* line 134, ../src/application.scss */
 .masthead {
   width: 225px;
   height: 100px;
   margin-top: 30px;
 }
 
-/* line 79, ../src/application.scss */
+/* line 135, ../src/application.scss */
 .marque {
   width: 100px;
   height: 136px;
-  margin: 55px;
+  display: block;
+  margin: 40px auto;
 }
 
-/* line 80, ../src/application.scss */
+/* line 136, ../src/application.scss */
 .ttlogo {
   width: 466px;
   height: 159px;
 }
 
-/* line 81, ../src/application.scss */
+/* line 137, ../src/application.scss */
 .logo {
   width: 96px;
   height: 54px;
   padding-top: 1em;
 }
 
-/* line 82, ../src/application.scss */
+/* line 138, ../src/application.scss */
 .like {
   text-align: right;
   margin: 0 -78px 10px;
+}
+
+/* line 139, ../src/application.scss */
+.rightpad {
+  padding-right: 4px;
 }

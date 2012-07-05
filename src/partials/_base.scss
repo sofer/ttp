@@ -7,7 +7,9 @@
 $blueprint-grid-width: ($blueprint-container-size + $blueprint-grid-margin) / $blueprint-grid-columns - $blueprint-grid-margin;
 */
 
-//$blueprint-grid-columns: 24;
-//$blueprint-container-size: 950px;
-//$blueprint-grid-margin: 30px;
+@import "blueprint";
+@import "compass";
 
+$blueprint-grid-columns: 24;
+$blueprint_grid_width: 30px;
+$blueprint-grid-margin: 10px;
