@@ -339,6 +339,6 @@ li:before {
 }
 
 /* line 139, ../src/application.scss */
-.rightpad {
-  padding-right: 4px;
+#twitter {
+  margin: -10px 4px 0 0;
 }
