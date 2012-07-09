@@ -4,7 +4,7 @@ top: false
 title: Cockney Sparrow Count
 author: true
 kind: home
-categories: information
+categories: announcements
 tags: [] 
 summary: "Help London’s house sparrows and take part in the RSPB Cockney Sparrow Count 18 June to 12 July!" 
 ---
