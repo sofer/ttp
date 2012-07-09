@@ -6,7 +6,7 @@ author: true
 kind: home
 categories: announcements
 tags: [] 
-summary: "Help London’s house sparrows and take part in the RSPB Cockney Sparrow Count 18 June to 12 July!" 
+summary: "Help London&rsquo;s house sparrows and take part in the RSPB Cockney Sparrow Count 18 June to 12 July!" 
 ---
 The Cockney sparrow was once a regular fixture in our London gardens, parks and squares. However, the city lost 68% of them between 1994 and 2000. The RSPB are asking Londoners to spend an hour, sometime between 18 June and 12 July, looking for house sparrows in their gardens and/or local green spaces and parks. It will help identify where populations are doing well, just clinging on or faring badly.
 
