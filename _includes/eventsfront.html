@@ -1,0 +1,23 @@
+{% for post in site.categories.events reversed %}
+  {% if post.date >= site.time %}
+  <h2>
+    {{ post.date | date: "%a %d %B" }}: {{ post.title }}
+  </h2>
+  <h3>
+    {{ post.summary }}
+  </h3>
+  {{ post.content }}
+  {% endif %}
+{% endfor %}
+
+<hr>
+
+<h2>Past events</h2>
+{% for post in site.categories.events limit:12 %}
+  {% if post.date < site.time %}
+    <p>
+      {{ post.date | date: "%e %b %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a> 
+      {{ post.summary }}
+    </p>
+  {% endif %}
+{% endfor %}

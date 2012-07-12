@@ -29,7 +29,7 @@
     </div>
 
     <div id="topnav">
-      {{ content }}
+      {% include navigation.html %}
     </div>
     
     <div id='homecontent'>
@@ -42,7 +42,7 @@
         </div>
       </div>
       <div id="homecopy">
-        {% include homecopy.html %}
+        {{ content }}
         <br><br>
         {% include facebook3.html %}
         {% include marque.html %}
