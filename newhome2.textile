@@ -1,15 +1,17 @@
 ---
-title: Home
-layout: bootstrap
+title: Transition Tufnell Park
+layout: new
 ---
 *What is Transition?*
 Transition Tufnell Park (TTP) is part of the Transition Town network and is one of many Transition Towns all over the world, working together to create community, sustainability and a positive future.
 
 *What happens then?*
-Based on the ideas of peak oil and the importance of community, the aim is to Transition away from fossil fuels, towards a more carbon-neutral, community led and creative future. This could be anything from being part of a community garden, looking into energy, getting creative, or just having a drink with neighbours.
+Based on the ideas of peak oil and the importance of community, the aim is to Transition away from fossil fuels, towards a more carbon-neutral, community led and creative future.
+This could be anything from being part of a community garden, looking into energy, getting creative, or just having a drink with neighbours.
 
 *So who are we?*
-TTP is you, me, and us working together.  So it is basically anyone at all who wants to get involved with community based ways of living whilst acknowledging our relationship with the world around us. All time is volunteered.
+TTP is you, me, and us working together. 
+So it is basically anyone at all who wants to get involved with community based ways of living whilst acknowledging our relationship with the world around us. All time is volunteered.
 
 *Get involved?*
 For starters, why not have a look at some of our projects, groups or events, and keep up to date with community updates?

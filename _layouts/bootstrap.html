@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/site.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+      .sidebar-nav {
+        padding: 9px 0;
+      }
+    </style>
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    {% include bootnavbar.html %}
+
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span9">
+          <ul class="thumbnails well">
+            <li class="span8">
+                {% include homepic.html %}
+            </li>
+            <li class="span4">
+              {% for post in site.categories.events limit:3  %}
+                <div>
+                  <b>{{ post.date | date: "%d %b" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a> {{ post.summary }}
+                </div>
+                <br>
+              {% endfor %}
+            </li>
+          </ul>
+          
+          <p>Page url: {{ page.url }}</p>
+          
+
+          {{ content }}
+
+          <div class="row-fluid">
+            <div class="span4">
+              <h2>Heading</h2>
+              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <p><a class="btn" href="#">View details &raquo;</a></p>
+            </div><!--/span-->
+            <div class="span4">
+              <h2>Heading</h2>
+              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <p><a class="btn" href="#">View details &raquo;</a></p>
+            </div><!--/span-->
+            <div class="span4">
+              <h2>Heading</h2>
+              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+              <p><a class="btn" href="#">View details &raquo;</a></p>
+            </div><!--/span-->
+          </div><!--/row-->
+        </div><!--/span-->
+        
+        <div class="span3">
+          {% include twitter2.html %}
+          <br>
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list">
+              {% include bootlinks.html %}
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+        
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+        <p>&copy; Transition Tufnell Park 2012</p>
+      </footer>
+
+    </div><!--/.fluid-container-->
+
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+    <script src="/bootstrap/js/bootstrap.js"></script>
+
+  </body>
+</html>

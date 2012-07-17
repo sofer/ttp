@@ -8,8 +8,18 @@
     <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
 <![endif]-->
 <link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/facebox.css" media="screen" rel="stylesheet" type="text/css" />
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script src="/js/facebox.js" type="text/javascript"></script>
+<script type="text/javascript">
+  jQuery(document).ready(function($) {
+    $('a[rel*=facebox]').facebox({
+      loadingImage : '/images/facebox/loading.gif',
+      closeImage   : '/images/facebox/closelabel.png'
+    })
+  })
+</script>
 </head>
 <body>
 
@@ -23,22 +33,16 @@
     </div>
     
     <div id='homecontent'>
-      <div id="homebox">
-        <div id='homepic'>
-          {% include homepic.html %}
-        </div>
-        <div id='hometrails'>
-          {% include hometrails.html %}
-        </div>
-      </div>
       <div id="homecopy">
+
+        <h1>{{ page.title }}</h1>
+
         {{ content }}
-        <br><br>
-        {% include facebook3.html %}
-        {% include marque.html %}
+
       </div>
     </div>
-    
+
+
     <div id='side'>
       <div class="like">
         <!--{% include like.html %}     -->
