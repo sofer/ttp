@@ -4,18 +4,17 @@
     <meta charset="utf-8">
     <title>Home</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
-    <link href="/bootstrap/css/site.css" rel="stylesheet">
     <style type="text/css">
       body {
-        padding-top: 60px;
+        padding-top: 80px;
         padding-bottom: 40px;
       }
       .sidebar-nav {
         padding: 9px 0;
       }
     </style>
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/bootstrap/css/site.css" rel="stylesheet">
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -25,8 +24,13 @@
 
     <div class="navbar navbar-fixed-top">
   <div class="navbar-inner">
-    <div class="container-fluid">
-      <a class="brand" href="#">Transition Tufnell Park</a>
+    <div class="container banner">
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+      <div class="brand">Transition Tufnell Park</div>
       <div class="nav-collapse">
         <ul class="nav">
           <li  class="active"><a href="/newhome.html">Home</a></li>
@@ -43,7 +47,7 @@
 </div>
 
 
-    <div class="container-fluid">
+    <div class="container">
       <div class="row-fluid">
         <div class="span9">
           <ul class="thumbnails well">
@@ -69,9 +73,6 @@
               
             </li>
           </ul>
-          
-          <p>Page url: /newhome.html</p>
-          
 
           <p><strong>What is Transition?</strong><br />
 Transition Tufnell Park (<span class="caps">TTP</span>) is part of the Transition Town network and is one of many Transition Towns all over the world, working together to create community, sustainability and a positive future.</p>
@@ -85,23 +86,6 @@ For starters, why not have a look at some of our projects, groups or events, and
 <p>We also want to connect up local activity so please let us know if there&#8217;s something local you want publicised, or of anything we haven&#8217;t linked with yet.</p>
 <p>There are no set rules and that&#8217;s why every Transition Town is different &#8211; it is whatever we make it and the more people involved, the more we can do together.</p>
 
-          <div class="row-fluid">
-            <div class="span4">
-              <h2>Heading</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-              <p><a class="btn" href="#">View details &raquo;</a></p>
-            </div><!--/span-->
-            <div class="span4">
-              <h2>Heading</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-              <p><a class="btn" href="#">View details &raquo;</a></p>
-            </div><!--/span-->
-            <div class="span4">
-              <h2>Heading</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-              <p><a class="btn" href="#">View details &raquo;</a></p>
-            </div><!--/span-->
-          </div><!--/row-->
         </div><!--/span-->
         
         <div class="span3">
@@ -117,8 +101,8 @@ For starters, why not have a look at some of our projects, groups or events, and
     height: 300,
     theme: {
       shell: {
-        background: '#0094c1',
-        color: '#000000'
+        background: '#086991',
+        color: '#ffffff'
       },
       tweets: {
         background: '#c0deed',
@@ -139,7 +123,7 @@ For starters, why not have a look at some of our projects, groups or events, and
           <br>
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
-              <li class="nav-header"><a href="http://eepurl.com/j1Bkr">Subscribe to our newsletter</a></li>
+              <li class="nav-header"><a href="http://eepurl.com/j1Bkr">Subscribe now</a></li>
 <li class="nav-header">Contact us</li>
 <li>
   <script type="text/javascript">document.write(
@@ -235,9 +219,17 @@ For starters, why not have a look at some of our projects, groups or events, and
 
       <hr>
 
-      <footer>
-        <p>&copy; Transition Tufnell Park 2012</p>
-      </footer>
+<footer>
+  <p class="pull-left">
+    &copy; Transition Tufnell Park 2012
+  </p>
+  <p class="pull-right">
+    <a href="http://www.transitionnetwork.org/">
+      <img src="/images/marque.gif" title="A part of TransitionNetwork.org" alt="A part of TransitionNetwork.org" class="marque">
+    </a>
+  </p>
+</footer>
+
 
     </div><!--/.fluid-container-->
 

@@ -1,3 +1,5 @@
-.background {
-  background: url("/images/banner-home.jpg") no-repeat top right;
+.banner  {
+  background-image: url("/images/banner-right.jpg");
+  background-repeat: no-repeat;
+  background-position: right;
 }
