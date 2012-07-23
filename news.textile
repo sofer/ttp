@@ -1,0 +1,26 @@
+---
+title: News
+layout: section
+---
+{% for post in site.posts %}
+  {% if post.date >= site.time %}
+  <h2>
+    {{ post.date | date: "%a %d %B" }}: {{ post.title }}
+  </h2>
+  <h3>
+    {{ post.summary }}
+  </h3>
+  {% endif %}
+{% endfor %}
+
+h2. Archive
+
+{% for post in site.posts %}
+  {% if post.date < site.time %}
+    <p>
+      {{ post.date | date: "%e %b %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a> 
+      {{ post.summary }}
+    </p>
+  {% endif %}
+{% endfor %}
+<hr>

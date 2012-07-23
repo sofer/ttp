@@ -3,15 +3,22 @@ title: Get Involved
 layout: section
 ---
 
-There are many ways, big and small to get involved with Transition Tufnell Park.
-
-Firstly, make your you're signed up to our monthly newsletter to keep up to date (link)
-
-Come along to our events, such as film screenings, green drinks, knitting and sowing.
-
-Get involved in a project such as the secret garden community growing project, draught busting or the free shop.
-
-Or you could suggest other ideas and email us if you'd like some support to make it happen.
-
-We're always looking for volunteers to help us with our various projects, groups and events so whether you've got people skills, design skills, enough time to print one flyer or to plant some potatoes, there's something for everyone.
-
+<div class="row">
+  <div class="span3">
+    <h3>Join the mailing list</h3>
+     <p>
+       Make sure you are signed up to our monthly newsletter to keep up to date with new events and activities and come along to one of our events.
+    </p>
+    <p><a class="btn" href="/contact.html">Join now &raquo;</a></p>
+  </div>
+  <div class="span3">
+    <h3>Get involved in a group</h3>
+     <p>Such as the secret garden community growing project, draught busting or the free shop at the market.</p>
+    <p><a class="btn" href="mailto:transition.tufnell.park@gmail.com?subject=I am interested in joining a group" target="_blank">Contact us &raquo;</a></p>
+ </div>
+  <div class="span3">
+    <h3>Suggest an idea and offer help</h3>
+    <p>We are always looking for new ideas and volunteers to help us with our various projects, so whether you have got an idea and would like some support to make it happen, or you've got people skills, design skills, enough time to print one flyer or to plant some potatoes, we want to hear from you.</p>
+    <p><a class="btn" href="mailto:transition.tufnell.park@gmail.com?subject=I want to help out" target="_blank">Contact us &raquo;</a></p>
+  </div>
+</div>
