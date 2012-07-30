@@ -102,9 +102,53 @@ For starters, why not have a look at some of our projects, groups or events, and
               </ul>
           </div>
 
+          <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=2349098461";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div class="fb-like-box" data-href="http://www.facebook.com/transitiontufnellpark" data-width="660" data-show-faces="false" data-stream="true" data-header="false"></div>
+
         </div>
         
         <div class="span3">
+          <div id="twitter">
+  <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+  <script>
+  new TWTR.Widget({
+    version: 2,
+    type: 'profile',
+    rpp: 1,
+    interval: 6000,
+    width: 'auto',
+    height: 300,
+    theme: {
+      shell: {
+        background: '#086991',
+        color: '#ffffff'
+      },
+      tweets: {
+        background: '#c0deed',
+        color: '#000000',
+        links: '#347cbb'
+      }
+    },
+    features: {
+      scrollbar: false,
+      loop: false,
+      live: false,
+      behavior: 'default'
+    }
+  }).render().setUser('transitiontp').start();
+  </script>
+</div>
+
+          <br>
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
               <li class="nav-header"><a href="http://eepurl.com/j1Bkr">Subscribe now</a></li>
