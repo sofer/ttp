@@ -4,7 +4,7 @@ top: true
 title: Energy Efficiency Challenge
 author: ds
 kind: energy
-categories: energy
+categories: [energy,events]
 tags: [] 
 summary: "7pm Upstairs at the Lord Palmerston" 
 ---
