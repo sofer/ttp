@@ -1,3 +1,11 @@
+<h2>Coming up</h2>
+{% for post in site.categories.events reversed limit:5 %}
+  {% if post.date >= site.time %}
+    <b>{{ post.date | date: "%d %b" }}: <a href="{{ post.url }}">{{ post.title }}</a></b>
+    <p>{{ post.summary | textilize }}</p>
+  {% endif %}
+{% endfor %}
+<br>
 <h2>Regular Events</h2>
 <h4>Saturdays</h4>
 <p><a href="/regular/2011/07/09/food-market.html">Tufnell Park Tavern Food Market</a>, Saturdays 11am-3pm.</p>
@@ -5,12 +13,3 @@
 <p><a href="/growing/2012/02/26/secret-garden.html">Secret garden</a>.
 <h4>Last Monday of the month</h4>
 <p><a href="/social/2012/02/23/green-drinks.html">Green drinks</a> at 7pm. Next one on September 24th.</p>
-    
-<!--
-{% for post in site.categories.events limit:3  %}
-  <div>
-    <b>{{ post.date | date: "%d %b" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a> {{ post.summary }}
-  </div>
-  <br>
-{% endfor %}
--->
