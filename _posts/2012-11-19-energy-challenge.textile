@@ -1,0 +1,21 @@
+---
+layout: post
+top: false
+title: Energy Challenge
+author: ds
+kind: energy
+categories: events
+tags: [] 
+summary: "7pm Upstairs at the Lord Palmerston" 
+---
+This is the latest in a series of events organized as part of the *Energy Challenge*.
+
+More information coming soon.
+
+Upstairs at the Lord Palmerston, 
+33 Dartmouth Park Hill, NW5 1HU.
+7pm, Monday 17th September. 
+
+Organized jointly by Transition Towns in Tufnell Park, Kentish Town and Dartmouth Park.
+ 
+_Note this venue is not wheelchair accessible._
