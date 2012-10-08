@@ -1,0 +1,22 @@
+---
+layout: post
+top: false
+title: Harvest Celebration
+author: rm
+kind: social
+categories: social
+tags: [] 
+summary: "2pm at the Secret Garden" 
+---
+What?
+Secret Garden workday and harvest - community gardening and learning how to grow food together.
+
+When?
+Sunday 28th October, from 2-4pm
+
+Where?
+Penny's garden.
+
+RSVP <script type="text/javascript">document.write(
+"\"craal\056pybhggr\100cubarpbbc\056pbbc\":znvygb:craal\056pybhggr\100cubarpbbc\056pbbc".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+</script>.
