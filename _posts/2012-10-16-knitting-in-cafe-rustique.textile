@@ -6,7 +6,7 @@ author: jdw
 kind: social
 categories: social
 tags: [] 
-summary: "EVENT CANCELLED" 
+summary: "EVENT POSTPONED" 
 ---
 What?
 -Bring your knitting and a friend. If you're an expert, a bit rusty or have never knitted before, you're all welcome. Knitting needles will be provided for those who don't have any.-
