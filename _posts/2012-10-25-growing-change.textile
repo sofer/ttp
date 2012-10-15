@@ -8,11 +8,11 @@ categories: events
 tags: [] 
 summary: "7pm at the Pineapple" 
 ---
-Next Thursday 25th there will be a Free Film Screening, 'Growing Change', at the Pineapple Pub - Please note change of venue.
+Next Thursday 25th there will be a Free Film Screening, &#x27;Growing Change&#x27;, at the Pineapple Pub - Please note change of venue.
 
 What?
 A free film screening and discussion night.
-'Growing Change' looks at one of the most exciting experiments in the world to grow a fair and sustainable food sustem.
+&#x27;Growing Change&#x27; looks at one of the most exciting experiments in the world to grow a fair and sustainable food sustem.
 
 You can watch the trailer "here":http://www.simoncunich.com.au/.
 
@@ -22,4 +22,4 @@ When?
 Thursday, 25th October, 7pm
 
 Where?
-Venue changed to The Pineapple Pub, NW5 2NX"
+Venue changed to The Pineapple Pub, NW5 2NX
