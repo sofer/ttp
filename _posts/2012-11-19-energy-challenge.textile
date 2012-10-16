@@ -29,7 +29,7 @@ Please <script type="text/javascript">document.write(
 "<n uers=\"znvygb:cenfunag\056inmr\100ogvagrearg\056pbz\" gnetrg=\"_oynax\">".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
 </script>send your questions</a> in advance and make a note in your diaries for:
 
-7pm, Monday 19th September. 
+7pm, Monday 19th November. 
 
 Upstairs at the Lord Palmerston, 
 33 Dartmouth Park Hill, NW5 1HU.
