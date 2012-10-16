@@ -25,9 +25,9 @@ With Master of Ceremonies, Prashant Vaze, author of "The Economical Environmenta
 
 We are very excited about this event and it is going to be an excellent opportunity to find out the possibilities of what you can do with your own home to reduce your carbon footprint.
 
-Please <a href="<script type="text/javascript">document.write(
-"znvygb:cenfunag\056inmr\100ogvagrearg\056pbz".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
-</script>" target="_blank">send your questions</a> in advance and make a note in your diaries for:
+Please <script type="text/javascript">document.write(
+"<n uers=\"znvygb:cenfunag\056inmr\100ogvagrearg\056pbz\" gnetrg=\"_oynax\">".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+</script>send your questions</a> in advance and make a note in your diaries for:
 
 7pm, Monday 19th September. 
 
