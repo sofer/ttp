@@ -1,21 +1,37 @@
 ---
 layout: post
 top: false
-title: Energy Challenge
+title: Green Question Time
 author: ds
 kind: energy
 categories: events
 tags: [] 
 summary: "7pm Upstairs at the Lord Palmerston" 
 ---
-This is the latest in a series of events organized as part of the *Energy Challenge*.
+Transitions Dartmouth Park, Kentish Town and Tufnell Park present:
 
-More information coming soon.
+*GREEN QUESTION TIME*
+
+With two leading architects from the Passivhaus movement:
+
+Justin Bere of "Bere:architects":http://www.bere.co.uk/, leading advocates of the Passivhaus standard in the UK.
+
+Robert Prewett of "Prewett Bizley":http://prewettbizley.com/, who has extensive experience of applying the Passivhaus standard to existing
+homes.
+
+Master of Ceremonies: Prashant Vaze, author of "The Economical Environmentalist":http://www.economicalenvironmentalist.co.uk/.
+
+"Passivhaus":http://www.passivhaus.org.uk/ or 'Passive House' is the fastest growing energy performance standard in the world. Over 30,000 buildings have been built world-wide to the Passivhaus standard and it is now being applied successfully to existing homes.
+
+This is going to be an excellent opportunity to find out the possibilities of what you can do with your own home to reduce your carbon footprint.
+
+Please "send your questions":mailto:prashant.vaze@btinternet.com in advance and make a note in your diaries for:
+
+7pm, Monday 17th September. 
 
 Upstairs at the Lord Palmerston, 
 33 Dartmouth Park Hill, NW5 1HU.
-7pm, Monday 17th September. 
 
-Organized jointly by Transition Towns in Tufnell Park, Kentish Town and Dartmouth Park.
+This is the latest in a series of events organised as part of the joint Energy Challenge by Transition Towns in Tufnell Park, Kentish Town and Dartmouth Park.
  
 _Note this venue is not wheelchair accessible._
