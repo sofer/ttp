@@ -15,6 +15,7 @@ Transitions Dartmouth Park, Kentish Town and Tufnell Park present:
 
 [Speakers to be announced.]
 
+<notextile>
 <!--
 With two leading architects from the Passivhaus movement:
 
@@ -32,6 +33,7 @@ Please <script type="text/javascript">document.write(
 "<n uers=\"znvygb:cenfunag\056inmr\100ogvagrearg\056pbz\" gnetrg=\"_oynax\">".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
 </script>send your questions</a> in advance and make a note in your diaries for:
 -->
+</notextile>
 
 7pm, Monday 19th November. 
 
