@@ -33,8 +33,8 @@ layout: section
       <label class="checkbox">
         <input type="checkbox" value="1" name="group[7701][1]" id="group_1" checked="checked">Tufnell Park News
         <input type="checkbox" value="1" name="group[7701][2]" id="group_2" checked="checked">The Energy Challenge
-        <input type="checkbox" value="1" name="group[7701][3]" id="group_3" checked="checked">The Market
-        <input type="checkbox" value="1" name="group[7701][4]" id="group_4" checked="checked">Growing
+        <input type="checkbox" value="1" name="group[7701][4]" id="group_4" checked="checked">The Market
+        <input type="checkbox" value="1" name="group[7701][8]" id="group_8" checked="checked">Growing
       </label>
       <button type="submit" class="btn">Subscribe to lists</button>
     </div>
