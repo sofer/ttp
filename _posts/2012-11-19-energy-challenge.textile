@@ -6,36 +6,16 @@ author: ds
 kind: energy
 categories: events
 tags: [] 
-summary: "7pm Upstairs at the Lord Palmerston" 
+summary: "7.30pm Upstairs at the Lord Palmerston" 
 ---
 
 Transitions Dartmouth Park, Kentish Town and Tufnell Park present:
 
-*A GREEN QUESTION TIME special on PASSIVHAUS ECO-HOUSING*
+*PASSIVHAUS at the Palmerston*
 
-[Speakers to be announced.]
+Architect, Justin Bere, of "Bere:architects":http://www.bere.co.uk/, a leader in ecological and environmental design, will talk about the "Passivhaus":http://www.passivhaus.org.uk/ concept and practice, and how it can improve our homes and the planet.
 
-<notextile>
-<!--
-With two leading architects from the Passivhaus movement:
-
-Justin Bere of "Bere:architects":http://www.bere.co.uk/, leading advocate of the Passivhaus standard in the UK.
-
-Robert Prewett of "Prewett Bizley":http://prewettbizley.com/, who has extensive experience of applying the Passivhaus standard to existing homes.
-
-With Master of Ceremonies, Prashant Vaze, author of "The Economical Environmentalist":http://www.economicalenvironmentalist.co.uk/.
-
-"Passivhaus":http://www.passivhaus.org.uk/ or 'Passive House' is the fastest growing energy performance standard in the world. Over 30,000 buildings have been built world-wide to the Passivhaus standard and it is now being applied successfully to existing homes.
-
-We are very excited about this event and it is going to be an excellent opportunity to find out the possibilities of what you can do with your own home to reduce your carbon footprint.
-
-Please <script type="text/javascript">document.write(
-"<n uers=\"znvygb:cenfunag\056inmr\100ogvagrearg\056pbz\" gnetrg=\"_oynax\">".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
-</script>send your questions</a> in advance and make a note in your diaries for:
--->
-</notextile>
-
-7pm, Monday 19th November. 
+7.30pm, Monday 19th November. 
 
 Upstairs at the Lord Palmerston, 
 33 Dartmouth Park Hill, NW5 1HU.
