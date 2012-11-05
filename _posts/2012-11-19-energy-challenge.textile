@@ -1,7 +1,7 @@
 ---
 layout: post
 top: false
-title: Green Question Time
+title: PASSIVHAUS at the Palmerston
 author: ds
 kind: energy
 categories: events
