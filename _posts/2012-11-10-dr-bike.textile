@@ -1,0 +1,12 @@
+---
+layout: post
+top: false
+title: Free cycle check with Dr Bike
+author: ds
+kind: events
+categories: events
+tags: [] 
+summary: "at the Market this Saturday 12-2pm" 
+---
+"Tufnell Park Cycles to School":http://transitiontufnellpark.org.uk/announcements/2012/09/26/cycles-to-school.html will be hosting a stall and doing free bike checks this Saturday and will then be setting off at 2pm for a family-friendly ride around the proposed route of Tufnell Park Cycles to School. The route is about 2 miles long and will start and end at the Tufnell Park Tavern.
+
