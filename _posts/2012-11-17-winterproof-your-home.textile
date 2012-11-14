@@ -1,0 +1,11 @@
+---
+layout: post
+top: false
+title: Winterproof your home!
+author: ds
+kind: energy
+categories: energy
+tags: [] 
+summary: "2.30pm at the Highgate Society" 
+---
+<img src="/images/winterproof.jpg">
