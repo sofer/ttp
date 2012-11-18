@@ -6,9 +6,11 @@ author: ds
 kind: energy
 categories: events
 tags: [] 
-summary: "7.30pm Upstairs at the Lord Palmerston" 
+summary: "EVENT POSTPONED" 
 ---
 
+*This event has been postponed.*
+<!--
 Transitions Dartmouth Park, Kentish Town and Tufnell Park present:
 
 *PASSIVHAUS at the Palmerston with Justin Bere*
@@ -31,3 +33,4 @@ Upstairs at the Lord Palmerston,
 This is the latest in a series of events organised as part of the joint Energy Challenge by Transition Towns in Tufnell Park, Kentish Town and Dartmouth Park.
  
 _Note this venue is not wheelchair accessible._
+-->
