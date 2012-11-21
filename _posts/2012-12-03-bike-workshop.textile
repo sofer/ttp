@@ -4,7 +4,7 @@ top: true
 title: Kentish Town Bike Workshop
 author: rm
 kind: home
-categories: transport
+categories: [transport, news]
 tags: [] 
 summary: "On the 1st Monday of every month" 
 ---
