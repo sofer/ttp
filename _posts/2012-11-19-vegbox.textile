@@ -4,7 +4,7 @@ top: false
 title: Vegbox
 author: rm
 kind: home
-categories: food
+categories: news
 tags: [] 
 summary: "Vegbox pickup at Ruby Violet" 
 ---
