@@ -1,9 +1,9 @@
 <h2>News</h2>
 {% for post in site.categories.news limit:3  %}
+  <div class="pull-right">
+    <a href="{{ post.url }}">More &raquo;</a>
+  </div>
   <b>{{ post.title }}</b><br>
     {{ post.standfirst | textilize }}
-    <div class="pull-right">
-      <a href="{{ post.url }}">More &raquo;</a>
-    </div>
 {% endfor %}
 <hr>
