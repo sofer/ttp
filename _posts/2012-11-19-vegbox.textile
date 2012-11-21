@@ -1,0 +1,17 @@
+---
+layout: post
+top: false
+title: Vegbox
+author: rm
+kind: home
+categories: food
+tags: [] 
+summary: "Vegbox pickup at Ruby Violet" 
+---
+Vegbox, the community-led organic vegetable box scheme, has a new pick up point in Tufnell Park.
+ 
+Vegbox has been set up by members of Transition Kentish Town, with support from the pioneering box scheme Growing Communities in Hackney. In time, they hope to invest profits from Vegbox in food growing projects in the local area.
+ 
+Vegbox is a membership scheme where you get a weekly selection of fresh seasonal produce, sourced as locally as possible, mostly from farms in Kent. You pick up your weekly veg every Wednesday from one of several pick up points in the area. "Ruby Violet":http://www.rubyviolet.co.uk/, the ice cream parlour at the top of Fortess Road, is the latest pick up point.
+ 
+To find out more or sign up, go to "Vegbox":http://vegbox.org.uk.

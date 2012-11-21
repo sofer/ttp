@@ -1,0 +1,19 @@
+---
+layout: post
+top: true
+title: Kentish Town Bike Workshop
+author: rm
+kind: home
+categories: transport
+tags: [] 
+summary: "On the 1st Monday of every month" 
+---
+Bring your bike for a check up and advice on to how to fix it. You'll work on your own bike with help from a mechanic. Free, but donations welcome.
+
+When?
+On 5th November and on the first Monday of every month, 7-9 pm
+
+Where?
+Kentish Town Health Centre, 2 Bartholomew Road
+
+The "Kentish Town Bike Workshop":http://www.camdencyclists.org.uk/kentish-town-bike-workshop.
