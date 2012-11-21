@@ -4,7 +4,7 @@ top: false
 title: Vegbox
 author: rm
 kind: home
-categories: [news,events]
+categories: [news]
 tags: [] 
 summary: "The community-led organic vegetable box scheme, has a new pick up point in Tufnell Park" 
 ---
