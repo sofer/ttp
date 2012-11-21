@@ -6,7 +6,8 @@ author: rm
 kind: home
 categories: news
 tags: [] 
-summary: "Vegbox pickup at Ruby Violet" 
+summary: "New pickup at Ruby Violet"
+standfirst: "The community-led organic vegetable box scheme, has a new pick up point in Tufnell Park." 
 ---
 Vegbox, the community-led organic vegetable box scheme, has a new pick up point in Tufnell Park.
  
