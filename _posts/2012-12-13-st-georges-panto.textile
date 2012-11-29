@@ -4,13 +4,13 @@ top:
 title: St George's Panto
 author: St George's
 kind: home
-categories: [Community, events, news]
+categories: [Community, events]
 tags: [] 
 summary: "Dec 13th 14th 15th at 7.30pm and Sat mat Dec 15th 3.30pm"
 ---
-"St George's Community Panto this year is SCROOGE! Children and adults of all ages will enjoy this timeless story based (loosely) on Dickens' ""Christmas Carol"". Get ready to boo, cheer and hiss!
+St George's Community Panto this year is SCROOGE! Children and adults of all ages will enjoy this timeless story based (loosely) on Dickens' "Christmas Carol". Get ready to boo, cheer and hiss!
 Tickets £6, conc £3 available at the door.
-Don't miss this Christmas treat!"
+Don't miss this Christmas treat!
 
 *DATE*
 Dec 13th 14th 15th at 7.30pm and Sat mat Dec 15th 3.30pm

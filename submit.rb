@@ -14,6 +14,8 @@ if ARGV[0] =~ /\d\d\d\d-\d\d-\d\d/
   title = cols[1]
   file = path + date+'-'+title.gsub(' ', '-').downcase.gsub(/[^a-z-]/, '') + '.textile'
   categories = "#{cols[7]}"
+  copy = cols[3].start_with?('"') ? cols[3][1..-2] : cols[3]
+  copy.gsub!('""', '"')
   endnote = ''
   if cols[13] != /yes/i
     categories += ", events"
@@ -37,7 +39,7 @@ categories: [#{categories}]
 tags: [] 
 summary: "#{cols[2]}"
 ---
-#{cols[3]}
+#{copy}
 
 #{endnote}
 
