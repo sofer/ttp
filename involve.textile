@@ -9,7 +9,7 @@ layout: section
      <p>
        Make sure you are signed up to our monthly newsletter to keep up to date with new events and activities and come along to one of our events.
     </p>
-    <p><a class="btn" href="/contact.html">Join now &raquo;</a></p>
+    <p><a class="btn" href="/subscribe.html">Join now &raquo;</a></p>
   </div>
   <div class="span3">
     <h3>Get involved in a group</h3>
