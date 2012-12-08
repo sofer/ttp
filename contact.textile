@@ -6,41 +6,4 @@ For more info just email "transition.tufnell.park@gmail.com":mailto:transition.t
 
 To RSVP for the secret garden please email "penny.cloutte@phonecoop.coop":mailto:penny.cloutte@phonecoop.coop.
 
-<!-- Begin MailChimp Signup Form -->
-
-<form action="http://transitiontufnellpark.us4.list-manage.com/subscribe/post?u=35368e85d463798091745ae7c&amp;id=6dd14e3b0a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="form-horizontal" target="_blank">  <fieldset>
-  	<legend>Subscribe to our mailing list</legend>
-    <div class="control-group">
-  	  <label class="control-label" for="mce-EMAIL">Email Address</label>
-  	  <div class="controls">
-  	    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-      </div>
-    </div>
-    <div class="control-group">
-  	  <label class="control-label" for="mce-FNAME">First Name </label>
-  	  <div class="controls">
-  	    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-      </div>	
-    </div>
-    <div class="control-group">
-    	<label class="control-label" for="mce-LNAME">Last Name </label>
-  	  <div class="controls">
-    	  <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-      </div>	
-    </div>
-    <div class="control-group">
-    	<label class="control-label" for="mce-POSTCODE">Postcode </label>
-  	  <div class="controls">
-    	  <input type="text" value="" name="POSTCODE" class="" id="mce-POSTCODE">
-      </div>	
-    </div>
-    <div class="control-group">
-  	  <div class="controls">
-        <button type="submit" class="btn">Sign up</button>
-      </div>	
-    </div>
-  </fieldset>
-</form>
-<!--End mc_embed_signup-->
-
-
+{% include subscribe.html %}
