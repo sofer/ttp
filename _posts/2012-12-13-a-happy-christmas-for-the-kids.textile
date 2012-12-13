@@ -10,5 +10,5 @@ summary: "Yerbury HSA say 'Thanks'"
 ---
 Yerbury Home School Association would like to thank all the Farmers Market stalls, shops in Campdale Rd, Ruby Violet & Violet & Fredrick flowers for their generous donations to the hamper which was raffled at Yerbury School’s Christmas Cracker fair on Friday. The money raised will be used to develop the playground facilities. Thanks very much!
 
-"Website":www.yerburydiscovery.org.uk.
+"Website":http://www.yerburydiscovery.org.uk.
 
