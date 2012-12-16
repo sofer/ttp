@@ -35,7 +35,7 @@ top:
 title: #{title}
 author: #{cols[4]}
 kind: home
-categories: [#{categories}]
+categories: [#{categories}, news]
 tags: [] 
 summary: "#{cols[2]}"
 ---
