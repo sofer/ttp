@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 
-ARGV[0] = '2012-12-13'
+# ARGV[0] = '2012-12-13'
 
 path = '_posts/'
 if ARGV[0] =~ /\d\d\d\d-\d\d-\d\d/
