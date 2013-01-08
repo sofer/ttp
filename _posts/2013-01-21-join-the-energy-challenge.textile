@@ -8,7 +8,7 @@ categories: [Energy, events, news]
 tags: [] 
 summary: "7pm, upstairs at the Lord Palmerton"
 ---
-Paula Owen the renowned energy researcher, broadcaster and entrepreneur will be kicking off the Energy CHallenge speaking about how we use electricity in our homes and how this has changed over the past forty years.
+Paula Owen the renowned energy researcher, broadcaster and entrepreneur will be kicking off the North London Energy Challenge, speaking about how we use electricity in our homes and how this has changed over the past forty years.
 
 *DATE*
 21st January
@@ -21,6 +21,8 @@ Upstairs at the Lord Palmerston, NW5 1HU
 
 "*_JOIN THE ENERGY CHALLENGE NOW_*":http://www.nlet.org.uk
 
-"Website":http://www.nlet.org.uk. "Contact":mailto:north.london.energy@gmail.com. 
+Visit the Website: "http://www.nlet.org.uk":http://www.nlet.org.uk. 
+
+Email: "north.london.energy@gmail.com":mailto:north.london.energy@gmail.com. 
 
 

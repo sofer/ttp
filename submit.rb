@@ -23,13 +23,17 @@ if ARGV[0] =~ /\d\d\d\d-\d\d-\d\d/
   end
   if cols[12] != /\w/
     if cols[12] =~ /^http:/
-      endnote += "\"Website\":#{cols[12]}. "
+      endnote += "Visit the website: \"#{cols[12]}\":#{cols[12]}.\n\n "
     else
-      endnote += "\"Website\":http://#{cols[12]}. "
+      endnote += "Visit the website: \"http://#{cols[12]}\":http://#{cols[12]}.\n\n "
     end
   end
   if cols[11] != /\w/
-    endnote += "\"Contact\":mailto:#{cols[11]}. "
+    if cols[11] != /\d$/
+      endnote += "Telephone: #{cols[11]}.\n"
+    else
+      endnote += "Email: \"#{cols[11]}\":mailto:#{cols[11]}.\n"
+    end
   end
 
     outline = <<OUTLINE
