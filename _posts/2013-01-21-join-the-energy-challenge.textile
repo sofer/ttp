@@ -1,12 +1,12 @@
 ---
 layout: post
 top: 
-title: Join the Energy Challenge
+title: Energy Challenge launch event
 author: ds
 kind: home
 categories: [Energy, events, news]
 tags: [] 
-summary: "Launch event at 7pm upstairs at the Lord Palmerton"
+summary: "7pm, upstairs at the Lord Palmerton"
 ---
 Paula Owen the renowned energy researcher, broadcaster and entrepreneur will be kicking off the Energy CHallenge speaking about how we use electricity in our homes and how this has changed over the past forty years.
 
@@ -19,5 +19,8 @@ Paula Owen the renowned energy researcher, broadcaster and entrepreneur will be 
 *VENUE*
 Upstairs at the Lord Palmerston, NW5 1HU
 
+"*_JOIN THE ENERGY CHALLENGE NOW_*":http://www.nlet.org.uk
+
 "Website":http://www.nlet.org.uk. "Contact":mailto:north.london.energy@gmail.com. 
+
 
