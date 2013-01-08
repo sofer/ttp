@@ -22,7 +22,11 @@ if ARGV[0] =~ /\d\d\d\d-\d\d-\d\d/
     endnote += "*DATE*\n#{cols[5]}\n\n*TIME*\n#{cols[8]}\n\n*VENUE*\n#{cols[9]}, #{cols[10]}\n\n"
   end
   if cols[12] != /\w/
-    endnote += "\"Website\":#{cols[12]}. "
+    if cols[12] =~ /^http:/
+      endnote += "\"Website\":#{cols[12]}. "
+    else
+      endnote += "\"Website\":http://#{cols[12]}. "
+    end
   end
   if cols[11] != /\w/
     endnote += "\"Contact\":mailto:#{cols[11]}. "
