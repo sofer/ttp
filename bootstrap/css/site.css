@@ -1,7 +1,7 @@
 .banner  {
   background-image: url("/images/banner-right.jpg");
   background-repeat: no-repeat;
-  background-position: top right;
+  background-position: top right 40px;
 }
 .brand { font-family: impact; letter-spacing: 0.06em; }
 .marque { 
