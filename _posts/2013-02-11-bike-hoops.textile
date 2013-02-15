@@ -1,0 +1,13 @@
+---
+layout: post
+top: 
+title: Bike Hoops
+author: TP
+kind: home
+categories: [Transport, news]
+tags: [] 
+summary: "Encouraging cycling in TP"
+---
+You may have that many of the street lamp posts have been turned in to beautiful and functional bike posts.
+
+This is with the help of local council funding, and local people getting involved in their community.
