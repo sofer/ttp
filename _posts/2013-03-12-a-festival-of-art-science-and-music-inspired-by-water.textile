@@ -23,6 +23,6 @@ Menier Gallery, SE1 1RU
 
 Visit the website: "http://www.i-sis.org.uk/coloursofwater/":http://www.i-sis.org.uk/coloursofwater/.
 
-Email: "mailto:evasinghji@gmail.com":evasinghji@gmail.com.
+Email: "evasinghji@gmail.com":mailto:evasinghji@gmail.com.
 
 
