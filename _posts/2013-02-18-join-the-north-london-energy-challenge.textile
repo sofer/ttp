@@ -1,0 +1,17 @@
+---
+layout: post
+top: 
+title: Join the North London Energy Challenge
+author: TP
+kind: home
+categories: [Energy, news]
+tags: [] 
+summary: "Sign up now"
+---
+Join in with the North London Energy Challenge to see how much energy you can save. Just sign up, take meter readings and reduce your energy use and CO2 emissions. You can also compare your progress with others.
+How?
+
+Sign up at nlet.org.uk - you submit meter readings there and you'll get reminders when you need them.
+
+Visit the website: "nlet.org.uk":http://nlet.org.uk/.
+
