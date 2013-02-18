@@ -1,0 +1,8 @@
+{% for post in site.categories.growing limit:3  %}
+  <div class="pull-right">
+    <a href="{{ post.url }}">More &raquo;</a>
+  </div>
+  <b>{{ post.title }}</b><br>
+    {{ post.summary | textilize }}
+{% endfor %}
+<hr>
