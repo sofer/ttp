@@ -6,7 +6,7 @@ layout: section
   <div class="span3">
     <h2>Growing</h2>
     
-    {% include growinging.html %}
+    {% include growing.html %}
     
      <p>Transition Tufnell Park Growing has mainly been focused on 'The Secret Garden' - a community allotment project in one persons back garden. We have also started a new community growing project, and other garden shares.
     </p>
