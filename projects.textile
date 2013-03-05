@@ -17,7 +17,7 @@ layout: section
     
     {% include energy.html %}
     
-     <p>We run regular draught busting sessions for local people and, along with other local Transition groups are getting an energy metering project off the ground.</p>
+     <p>We invite everyone to join the <a href="http://nlet.org.uk/">Energy Challenge</a>.</p>
     <p><a class="btn" href="#energy">See more &raquo;</a></p>
  </div>
   <div class="span3">
@@ -82,6 +82,9 @@ If you don't have a garden and you'd like to do more growing, or if you have a g
 <a name="energy"></a>
 
 h1. Energy
+
+*Energy Challenge*
+We invite you to join the <a href="http://nlet.org.uk/">Energy Challenge</a>.
 
 *Draughtbusting*
 
