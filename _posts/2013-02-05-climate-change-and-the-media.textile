@@ -4,7 +4,7 @@ top:
 title:  Climate Change and the Media
 author: web editor
 kind: home
-categories: [Growing, events, news]
+categories: [growing, events, news]
 tags: [] 
 summary: "Communications and awareness event"
 ---

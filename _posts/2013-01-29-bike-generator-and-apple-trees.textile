@@ -4,7 +4,7 @@ top:
 title: Bike generator and Apple trees
 author: TP
 kind: home
-categories: [Community, news]
+categories: [community, news]
 tags: [] 
 summary: "The story of the local council funding"
 ---

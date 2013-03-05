@@ -4,7 +4,7 @@ top:
 title: Save Your High Street
 author: Musicraft
 kind: home
-categories: [Economy, news]
+categories: [economy, news]
 tags: [] 
 summary: "Save Your High Street from the Costa Clone"
 ---

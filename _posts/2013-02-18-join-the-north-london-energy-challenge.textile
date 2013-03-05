@@ -4,7 +4,7 @@ top:
 title: Join the North London Energy Challenge
 author: TP
 kind: home
-categories: [Energy, news]
+categories: [energy, news]
 tags: [] 
 summary: "Sign up now"
 ---

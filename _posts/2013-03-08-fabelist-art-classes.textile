@@ -4,7 +4,7 @@ top:
 title: Fabelist Art Classes
 author: Amanda - Project Manager Fabelist Art Classes
 kind: home
-categories: [Community, events, news]
+categories: [community, events, news]
 tags: [] 
 summary: "Free Art Class 4-5pm for 7-14 year olds at 129, Fortess Road"
 ---

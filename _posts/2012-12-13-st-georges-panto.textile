@@ -4,7 +4,7 @@ top:
 title: St George's Panto
 author: St George's
 kind: home
-categories: [Community, events]
+categories: [community, events]
 tags: [] 
 summary: "Dec 13th 14th 15th at 7.30pm and Sat mat Dec 15th 3.30pm"
 ---

@@ -4,7 +4,7 @@ top:
 title: A festival of art, science, and music inspired by water.
 author: Maewan Ho
 kind: home
-categories: [Culture, events, news]
+categories: [culture, events, news]
 tags: [] 
 summary: " Exhibitions, Lectures, Performances by an International Cast of Artists, Scientists and Musicians at the menier Gallery, 12-28th March"
 ---

@@ -13,7 +13,7 @@ if ARGV[0] =~ /\d\d\d\d-\d\d-\d\d/
   cols = content.split("\t")
   title = cols[1]
   file = path + date+'-'+title.gsub(' ', '-').downcase.gsub(/[^a-z-]/, '') + '.textile'
-  categories = "#{cols[7]}"
+  categories = "#{cols[7]}".downcase
   copy = cols[3].start_with?('"') ? cols[3][1..-2] : cols[3]
   copy.gsub!('""', '"')
   endnote = ''

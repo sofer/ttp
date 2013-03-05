@@ -4,7 +4,7 @@ top:
 title: Energy Challenge launch event
 author: ds
 kind: home
-categories: [Energy, events, news]
+categories: [energy, events, news]
 tags: [] 
 summary: "7pm, upstairs at the Lord Palmerton"
 ---

@@ -4,7 +4,7 @@ top:
 title: Bike Hoops
 author: TP
 kind: home
-categories: [Transport, news]
+categories: [transport, news]
 tags: [] 
 summary: "Encouraging cycling in TP"
 ---

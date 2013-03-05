@@ -4,7 +4,7 @@ top:
 title: Blue Plaque Launch
 author: Jacquelyn
 kind: home
-categories: [Culture, events, news]
+categories: [culture, events, news]
 tags: [] 
 summary: "10am, leaving Books For Free NW5 for a guided tour of 18 local blue plaques"
 ---

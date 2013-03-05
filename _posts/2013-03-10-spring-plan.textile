@@ -4,7 +4,7 @@ top:
 title: Secret Garden Spring dates
 author: TP
 kind: home
-categories: [Growing, events, news]
+categories: [growing, events, news]
 tags: [] 
 summary: "Put them in your diary!"
 ---

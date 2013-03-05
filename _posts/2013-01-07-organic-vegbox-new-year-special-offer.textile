@@ -4,7 +4,7 @@ top:
 title: Organic Vegbox New Year Special Offer
 author: Tom A
 kind: home
-categories: [Food, events, news]
+categories: [economy, events, news]
 tags: [] 
 summary: "Start the New Year with a commitment to eat fresh, seasonal and local produce!"
 ---

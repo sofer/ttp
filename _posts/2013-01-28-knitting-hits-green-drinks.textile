@@ -4,7 +4,7 @@ top:
 title: Knitting Hits Green Drinks
 author: Musicraft
 kind: home
-categories: [Community, events, news]
+categories: [community, events, news]
 tags: [] 
 summary: "Meet neighbours, have a natter, optional knitting too"
 ---

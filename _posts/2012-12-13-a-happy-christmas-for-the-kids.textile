@@ -4,7 +4,7 @@ top:
 title: A Happy Christmas for the kids
 author: Tessa Wire
 kind: home
-categories: [Community, news]
+categories: [community, news]
 tags: [] 
 summary: "Yerbury HSA say 'Thanks'"
 ---
