@@ -14,16 +14,24 @@ layout: section
   </div>
   <div class="span3">
     <h2>Energy</h2>
+    
+    {% include energy.html %}
+    
      <p>We run regular draught busting sessions for local people and, along with other local Transition groups are getting an energy metering project off the ground.</p>
     <p><a class="btn" href="#energy">See more &raquo;</a></p>
  </div>
   <div class="span3">
     <h2>Economy</h2>
+    
+    {% include economy.html %}
+    
     <p>We helped get the local Farmers Market up and running outside the Tufnell Park Tavern every Saturday.</p>
     <p><a class="btn" href="#economy">See more &raquo;</a></p>
   </div>
 </div>
 
+<h2>Steering Group</h2>
+<p>Meets once a month to plan and co-ordinate our various activities.</p>
 
 <a name="growing"></a>
 
