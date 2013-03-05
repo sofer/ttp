@@ -4,7 +4,7 @@ layout: post
 title: Homeland Star supports Tufnell Park Cycling Campaign
 author: David Lincoln
 kind: home
-categories: [community, news]
+categories: [transport, community, news]
 tags: [] 
 summary: "Damian Lewis joins Families at Tufnell Park Cycles to School Photo Shoot"
 ---
