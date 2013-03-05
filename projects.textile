@@ -32,12 +32,17 @@ layout: section
 
 
 <div class="row">
-  <div class="span3 offset3">
+  <div class="span3">
     <h2>Transport</h2>
     {% include transport.html %}
-
   </div>
-  <div class="span3 offset3">
+
+  <div class="span3">
+    <h2>Community</h2>
+    {% include community.html %}
+  </div>
+
+  <div class="span3">
     <h2>The steering group</h2>
     <p>Meets once a month to plan and co-ordinate our various activities.</p>
   </div>
