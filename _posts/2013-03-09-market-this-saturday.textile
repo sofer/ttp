@@ -1,29 +1,18 @@
 ---
 layout: post
-top: 
 title: MARKET THIS SATURDAY
 author: TP
 kind: home
-categories: [community, events, news]
+categories: [top, community, events, news]
 tags: [] 
 summary: "bike powered music, papers, rides and more"
 ---
 Bike day at the food market
 
-What?
 Your weekly local food market will be hosting a bicycle fiesta this coming Saturday - there will be a Dr Bike stall, bicycle-powered music and a family-friendly bike tour with Tufnell Park Cycles Safely to School for the younger bike enthusiasts. Transition Free Press will also be available alongside the usual delicious food fare.
 
-When?
+*When?*
 11am-3pm, Saturday 9th March (bike tour at 2pm; market is every Saturday)
 
-Where?
+*Where?*
 In front of the Tufnell Park Tavern, 162 Tufnell Park Road, N7 0EE
-
-*DATE*
-9th March 2013
-
-*TIME*
-11am
-
-*VENUE*
-Outside the Tufnell Park Tavern.
