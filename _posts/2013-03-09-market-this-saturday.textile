@@ -3,7 +3,7 @@ layout: post
 title: MARKET THIS SATURDAY
 author: TP
 kind: home
-categories: [top, community, events, news]
+categories: [community, events, news]
 tags: [] 
 summary: "bike powered music, papers, rides and more"
 ---
