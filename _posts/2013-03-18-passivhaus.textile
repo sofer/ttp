@@ -4,7 +4,7 @@ top:
 title: PASSIVHAUS
 author: TP
 kind: home
-categories: [top, energy, events, news]
+categories: [energy, events, news]
 tags: [] 
 summary: "Justin Bere on Passivhaus"
 ---

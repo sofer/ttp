@@ -39,7 +39,6 @@ if ARGV[0] =~ /\d\d\d\d-\d\d-\d\d/
     outline = <<OUTLINE
 ---
 layout: post
-top: 
 title: #{title}
 author: #{cols[4]}
 kind: home
