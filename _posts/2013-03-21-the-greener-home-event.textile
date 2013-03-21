@@ -3,7 +3,7 @@ layout: post
 title: the greener HOME event
 author: ds
 kind: home
-categories: [top, energy, events, news]
+categories: [energy, events, news]
 tags: [] 
 summary: "3-9pm at the Hamsptead Old Town Hall"
 ---
