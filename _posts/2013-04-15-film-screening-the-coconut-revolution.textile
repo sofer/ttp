@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Film screening: The Coconut Revolution
+title: "Film screening: The Coconut Revolution"
 author: ds
 kind: home
 categories: [top, community, events, news]
