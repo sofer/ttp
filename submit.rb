@@ -39,7 +39,7 @@ if ARGV[0] =~ /\d\d\d\d-\d\d-\d\d/
     outline = <<OUTLINE
 ---
 layout: post
-title: #{title}
+title: "#{title}"
 author: #{cols[4]}
 kind: home
 categories: [#{categories}, news]
