@@ -3,7 +3,7 @@ layout: post
 title: Film screening: Garbage Warrior
 author: ds
 kind: home
-categories: [community, events, news]
+categories: [top, community, events, news]
 tags: [] 
 summary: "7pm Upstairs at the Lord Palmerston"
 ---
