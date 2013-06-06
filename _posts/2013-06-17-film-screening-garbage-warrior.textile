@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Film screening: Garbage Warrior
+title: "Film screening: Garbage Warrior"
 author: ds
 kind: home
 categories: [top, community, events, news]
