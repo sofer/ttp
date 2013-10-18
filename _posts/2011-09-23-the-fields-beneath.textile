@@ -26,8 +26,3 @@ Address: 16 Fortess Road, Kentish Town, NW5 2EU
 
 Opening times: 2pm-6pm, Tuesday, Wednesday and Thursday
 
-Contact: Liz Sheridan 07812 104 126 <script type="text/javascript">document.write(
-"<n uers=\"znvygb:r_n_furevqna\100lnubb\056pb\056hx\">r_n_furevqna\100lnubb\056pb\056hx<\057n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
-</script>; Tom Allen (Transition Kentish Town) 07815 771 939 <script type="text/javascript">document.write(
-"<n uers=\"znvygb:gbz\100genafvgvbaxragvfugbja\056bet\056hx\">gbz\100genafvgvbaxragvfugbja\056bet\056hx<\057n> ".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
-</script>
