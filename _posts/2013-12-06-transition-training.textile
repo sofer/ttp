@@ -4,7 +4,7 @@ top: false
 title: Transition training
 author: TP
 kind: home
-categories: information
+categories: [information, news]
 tags: [] 
 summary: "Transitioning through education" 
 ---
