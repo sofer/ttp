@@ -1,0 +1,17 @@
+<div class="span6">
+{% for post in site.tags.left reversed %}
+  <h3>{{ post.title }}</h3>
+    {{ post.content | markdownify }}
+  <hr>
+{% endfor %}
+</div>
+<div class="span6">
+{% for post in site.tags.right %}
+  <h3>{{ post.title }}</h3>
+    {{ post.content | markdownify }}
+  <hr>
+{% endfor %}
+</div>
+
+
+
