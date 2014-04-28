@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Powering Up North London"
+author: TTP
+kind: home
+tags: [left] 
+---
+![post.title](http://i93.photobucket.com/albums/l71/transitiontufnellpark/logo_zpsf7b5c452.jpg)
+
+**Setting up a community-owned energy company in North London**
+
+Talk and Discussion - Saturday 10th May, 2-4pm - Acland Burghley School, NW5 1UJ.
+
+Speakers include members from Brixton Energy, Hackney Energy and more!
+
+[Sign up for tickets](http://www.eventbrite.co.uk/e/powering-up-north-london-tickets-11208975347).
+
+Hosts: Transition Dartmouth Park, Transition Kentish Town, Transition Tufnell Park
+
+
+

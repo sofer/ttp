@@ -64,7 +64,7 @@ else
   puts <<USAGE
 Usage: /submit.rb arg1 arg2
 arg1: date in YYYY-MM-DD format
-arg2: submission file (submit.rb by default)
+arg2: submission file (submit.txt by default)
 USAGE
 
 end

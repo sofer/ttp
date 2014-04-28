@@ -1,5 +1,5 @@
 <div class="span6">
-{% for post in site.tags.left reversed %}
+{% for post in site.tags.left %}
   <h3>{{ post.title }}</h3>
     {{ post.content | markdownify }}
   <hr>

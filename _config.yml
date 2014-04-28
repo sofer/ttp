@@ -6,3 +6,5 @@ exclude:
 - config.rb
 - .sass-cache
 - CNAME
+
+markdown: kramdown
