@@ -7,15 +7,12 @@ tags: [left]
 ---
 ![post.title](http://i93.photobucket.com/albums/l71/transitiontufnellpark/logo_zpsf7b5c452.jpg)
 
-**Setting up a community-owned energy company in North London**
+**Do you know a site for community solar pannels?**
 
-Talk and Discussion - Saturday 10th May, 2-4pm - Acland Burghley School, NW5 1UJ.
+Following a hugely successful event with over 60 attendees about setting up a renewable community energy project in North London - scouts are on the look out for solar sites. 
 
-Speakers include members from Brixton Energy, Hackney Energy and more!
+If you know of some good, south facing possibilities get in touch or get involved. 
 
-[Sign up for tickets](http://www.eventbrite.co.uk/e/powering-up-north-london-tickets-11208975347).
-
-Hosts: Transition Dartmouth Park, Transition Kentish Town, Transition Tufnell Park
-
-
+A group is currently having regular meetings - get in touch to get involved. document.write(
+"  <n uers=\"znvygb:genafvgvba\056ghsaryy\056cnex\100tznvy\056pbz\" gnetrg=\"_oynax\">Rznvy<\057n>\n".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
 
