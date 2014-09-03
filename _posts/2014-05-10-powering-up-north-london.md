@@ -13,6 +13,6 @@ Following a hugely successful event with over 60 attendees about setting up a re
 
 If you know of some good, south facing possibilities get in touch or get involved. 
 
-A group is currently having regular meetings - get in touch to get involved. document.write(
-"  <n uers=\"znvygb:genafvgvba\056ghsaryy\056cnex\100tznvy\056pbz\" gnetrg=\"_oynax\">Rznvy<\057n>\n".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+A group is currently having regular meetings - get in touch to get involved. 
 
+[transition.tufnell.park@gmail.com](mailto:transition.tufnell.park@gmail.com)
